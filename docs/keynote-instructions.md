@@ -22,9 +22,9 @@ To edit the Master Slides you can do one of the following:
 
 First, select the **Variables** slide on the **Navigator*** located on the left-hand side.
 
-If you do not see this menu, click **View > Navigator**.
-
 ![](img/deck-v1_and_The_Best_Screenshot_Apps_for_macOS-1d4fa464-45bf-4b28-9633-e5c2edea0b91.png)
+
+If you do not see this menu, click **View > Navigator**.
 
 The Variables can be easily edited by switching out the content in the right column  of the variables table. If you'd like to leave a variable blank, just add an empty space.
 

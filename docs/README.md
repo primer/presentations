@@ -1,6 +1,7 @@
 # Primer Decks
 
-Docs go here
+### Documentation
+Full documentation coming soon.
 
 {:toc}
 

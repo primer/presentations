@@ -1,10 +1,14 @@
 # Keynote instructions
 
+Currently the main 
+
 ## Footer variables
 
 > Control all Footer Variables within the Master slides.
 
-The footer elements can be updated globally within your presentation in a matter of seconds! Just click the Variables slide within the Master Slides and change the Username, Presentation Name, and Presentation Note to your information, and everything will update in real time. Magic! 🧙🏽‍♂️
+The footer elements can be updated globally within your presentation in a matter of seconds! Just click the `Variables` slide within the Master Slides and change the `Username`, `Presentation Name`, and `Presentation Note` to your information, and everything will update in real time. Magic! 🧙🏽‍🔮
+
+For more detailed instructions, see below.
 
 ### Editing master slides
 
@@ -24,9 +28,9 @@ First, select the **Variables** slide on the **Navigator*** located on the left-
 
 ![](img/deck-v1_and_The_Best_Screenshot_Apps_for_macOS-1d4fa464-45bf-4b28-9633-e5c2edea0b91.png)
 
-If you do not see this menu, click **View > Navigator**.
+*If you do not see this menu, click **View > Navigator**.
 
-The Variables can be easily edited by switching out the content in the right column  of the variables table. If you'd like to leave a variable blank, just add an empty space.
+The variables can be easily edited by switching out the content in the right column of the table. If you'd like to leave a section blank, just add an empty space.
 
 ![](img/deck-v1-94498eb7-9101-4b1c-9bc8-573bbdfefe9b.png)
 

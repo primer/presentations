@@ -4,7 +4,7 @@ Our documentation site currently lives at [https://primer.github.io/presentation
 ## Installation
 ### Keynote
 #### 1. Installing the theme file
-To install any of the Keynote themes, simply download the theme you'd like to use and double-click on the Keynote theme file (`.kth`). This will open Keynote with the dialog box that looks like this ![Add theme dialog box]().
+To install any of the Keynote themes, simply download the theme you'd like to use and double-click on the Keynote theme file (`.kth`). This will open Keynote with the dialog box that looks like this: ![Add theme dialog box](https://user-images.githubusercontent.com/10384315/53050337-f50e6c00-344d-11e9-9c56-d5f3e51b19c3.png).
 
 Click `Add to Theme Chooser`. The theme will now be available in the `My Themes` tab when you create a new presentation.
 

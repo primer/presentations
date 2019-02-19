@@ -9,6 +9,6 @@ The GitHub Marketing icons were created by the Creative team for use in our web,
 [Web](https://ghicons.github.com/) | [GitHub](https://github.com/github/icons) | [Figma](https://www.figma.com/file/mI7o0RNCbWFhckw2svxKsm/GitHub-Updated-icons-Expanded?node-id=56%3A56)
 ## Presentation Templates
 ### Keynote
-The keynote template is available here (TBD)
+The keynote template is available on [Google Drive](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln).
 ### Google Slides
-The Google slides template is available here (TBD)
+The Google slides template is available on [Google Drive](https://docs.google.com/presentation/d/1Ex9q_A3-dxWHWw9q2q25KUBmmDkoUMADFKTkVW6o2jw/edit?usp=sharing).

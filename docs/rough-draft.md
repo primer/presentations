@@ -23,12 +23,14 @@ Background colors should be limited to the colors provided in the template.
 <img width="500" alt="Screenshot 2019-03-19 16 30 13" src="https://user-images.githubusercontent.com/10384315/54648634-49fccc80-4a64-11e9-9e86-25ccd1a07870.png">
 
 <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png">
+
 **Don't** use gradients or colors outside the provided template.
 
 <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png">
 **Don't** use tiled images.
 
-<img width="500" alt="Section Title - Hubot" src"https://user-images.githubusercontent.com/10384315/54648755-b11a8100-4a64-11e9-8e9f-d04cf096224a.png">
+<img width="500" alt="Section Title - Hubot" src="https://user-images.githubusercontent.com/10384315/54648755-b11a8100-4a64-11e9-8e9f-d04cf096224a.png">
+
 - **Do** use background images responsibly. See below for guidelines.
 
 ### Background Images

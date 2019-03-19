@@ -118,9 +118,15 @@ Body text - 48/16
 Monospace fonts are used for quote attributes, code slides, and labels/eyebrow text.
 
 #### Highlights
-Highlights should be used sparingly and to only highlight key words or phrases on the slide. Try to avoid highlighting multiple lines on a single slide. 
+Highlights should be used sparingly and to only highlight key words or phrases on the slide. Try to avoid highlighting multiple lines on a single slide. Too many highlights will confuse your audience in regards to what the most important take away should be.
 
-<img width="1165" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
+<img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png">
+
+- **Don't** use too many highlights.
+
+<img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
+
+- **Do** highlight important points that your audience should pay attention to.
 
 ## Versioning
 Versioning for the Primer presentation system will be logged by date. All updates will be kept in a changelog located in both the presenters notes of a Changelog slide and on the Primer presentations site.

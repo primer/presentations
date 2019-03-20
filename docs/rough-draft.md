@@ -1,4 +1,9 @@
 # Presentation Design Guidelines
+- [Images](#images)
+- [GitHub Icons & Illustrations](#github-icons-and-illustrations)
+- [Backgrounds](#backgrounds)
+- [Background Images](#background-images)
+
 ## Images
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
 
@@ -10,7 +15,7 @@ When using a screenshot, it’s best to match the background. We suggest to take
 
 - **Do** use images with a white or transparent background.
 
-## GitHub Icons & Illustrations
+## GitHub Icons and Illustrations
 You are allowed to use certain illustrations provided by our awesome creative team in your presentation. Please _**only**_ use approved art provided within the [Asset Library](). If you cannot find what you are looking for or would like to request something specific, please create an issue within the [presentations repo](https://github.com/primer/presentations/).
 
 **A few guidelines**

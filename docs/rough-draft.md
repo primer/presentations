@@ -4,7 +4,7 @@
 - [Backgrounds](#backgrounds)
 - [Background Images](#background-images)
 
-Welcome to the GitHub presentation design system! Here you will find guidelines for best practices on building your next deck, deck thema library of assets to use
+Welcome to the GitHub presentation design system! Here you will find guidelines for best practices on building your next deck, deck themes, and a library of assets to use for your next presentation. 
 
 ## Images
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.

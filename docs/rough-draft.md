@@ -7,13 +7,10 @@
 ## Images
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
 
-<img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png">
-
-- **Don't** use images with opposite backgrounds to the slide background.
-
-<img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png">
-
-- **Do** use images with a white or transparent background.
+Don't | Do 
+--- | ---
+<img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"> | <img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png">
+ Use images with opposite backgrounds to the slide background. | Use images with a white or transparent background.
 
 ## GitHub Icons and Illustrations
 You are allowed to use certain illustrations provided by our awesome creative team in your presentation. Please _**only**_ use approved art provided within the [Asset Library](). If you cannot find what you are looking for or would like to request something specific, please create an issue within the [presentations repo](https://github.com/primer/presentations/).
@@ -27,27 +24,23 @@ Background colors should be limited to the colors provided in the template.
 
 <img width="500" alt="Screenshot 2019-03-19 16 30 13" src="https://user-images.githubusercontent.com/10384315/54648634-49fccc80-4a64-11e9-9e86-25ccd1a07870.png">
 
-<img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png">
+Don't | 
+--- | 
+<img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"> | 
+Use gradients or colors outside the provided template. | 
+<img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"> | 
+Use tiled images. |
 
-- **Don't** use gradients or colors outside the provided template.
-
-<img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png">
-
-- **Don't** use tiled images.
+### Background Images
 
 <img width="500" alt="Section Title - Hubot" src="https://user-images.githubusercontent.com/10384315/54648755-b11a8100-4a64-11e9-8e9f-d04cf096224a.png">
 
-- **Do** use background images responsibly. See below for guidelines.
-
-### Background Images
 Background images should be used _only_ to support, not to distract the viewers. 
-<img width="500" alt="bg-dont" src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png">
 
-- **Don't** use busy background images when paired with text.
-
-<img width="500" alt="bg-do" src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png">
-
-- **Do** lower the opacity of a background image to maintain readability. Background images should be dimmed to 25% opacity.
+Don't | Do
+--- | ---
+<img width="500" alt="bg-dont" src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png"> | <img width="500" alt="bg-do" src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png">
+Use busy background images when paired with text. | Lower the opacity of a background image to maintain readability. Background images should be dimmed to 25% opacity.
 
 ## Slide types
 ### Quote slides
@@ -119,19 +112,16 @@ Keynote/Google Slides
 
 Body text - 48/16
 
-#### Monospace Fonts
+### Monospace Fonts
 Monospace fonts are used for quote attributes, code slides, and labels/eyebrow text.
 
-#### Highlights
+### Highlights
 Highlights should be used sparingly and to only highlight key words or phrases on the slide. Try to avoid highlighting multiple lines on a single slide. Too many highlights will confuse your audience in regards to what the most important take away should be.
 
-<img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png">
-
-- **Don't** use too many highlights.
-
-<img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
-
-- **Do** highlight important points that your audience should pay attention to.
+Don't | Do
+--- | ---
+<img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png"> | <img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
+Use too many highlights. | Highlight important points that your audience should pay attention to.
 
 ## Versioning
 Versioning for the Primer presentation system will be logged by date. All updates will be kept in a changelog located in both the presenters notes of a Changelog slide and on the Primer presentations site.

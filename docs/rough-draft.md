@@ -54,15 +54,11 @@ Reaction slides use the GitHub reaction emojis to add emphasis to a topic.
 ### Charts
 Charts can be easily added to any slide using the built in chart features in both Keynote and Google Slides.
 
-<img width="250" alt="Screenshot 2019-03-19 16 37 08" src="https://user-images.githubusercontent.com/10384315/54648917-487fd400-4a65-11e9-8f44-ebfe471de0ec.png"><img width="250" alt="Screenshot 2019-03-19 16 37 19" src="https://user-images.githubusercontent.com/10384315/54648918-49186a80-4a65-11e9-88ed-88e6bbb539a0.png">
+<img width="250" alt="Screenshot 2019-03-19 16 37 08" src="https://user-images.githubusercontent.com/10384315/54648917-487fd400-4a65-11e9-8f44-ebfe471de0ec.png"> <img width="250" alt="Screenshot 2019-03-19 16 37 19" src="https://user-images.githubusercontent.com/10384315/54648918-49186a80-4a65-11e9-88ed-88e6bbb539a0.png">
 
-<img width="500" alt="Screenshot 2019-03-19 16 40 29" src="https://user-images.githubusercontent.com/10384315/54649021-b88e5a00-4a65-11e9-9288-9d2a1c8e9428.png">
-
-- **Don't** add a chart with a white background to a black slide.
-
-<img width="500" alt="Screenshot 2019-03-19 16 36 58" src="https://user-images.githubusercontent.com/10384315/54648916-487fd400-4a65-11e9-8e8f-ae4914910617.png">
-
-- **Do** use a white slide for charts with white backgrounds.
+Don't | Do
+<img width="500" alt="Screenshot 2019-03-19 16 40 29" src="https://user-images.githubusercontent.com/10384315/54649021-b88e5a00-4a65-11e9-9288-9d2a1c8e9428.png"> | <img width="500" alt="Screenshot 2019-03-19 16 36 58" src="https://user-images.githubusercontent.com/10384315/54648916-487fd400-4a65-11e9-8e8f-ae4914910617.png">
+Add a chart with a white background to a black slide. | Use a white slide for charts with white backgrounds.
 
 ### Keynote
 To add a chart in Keynote click the Chart button in the top toolbar.

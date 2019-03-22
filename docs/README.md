@@ -1,16 +1,33 @@
 # Primer Presentations
+_Last updated: March 22, 2019_
 
-- [Images](#images)
-- [GitHub Icons & Illustrations](#github-icons-and-illustrations)
+- [Introduction](#introduction)
+- [Presentation formats](#presentation-formats)
+  - [Theme templates](#theme-templates)
+    - [Keynote](#keynote)
+    - [Google Slides](#google-slides)
+    - [Figma](#figma)
+- [Design guidelines](#design-guidelines)
+  - [Text styling](#text-styling)
+    - [Font sizing](#font-sizing)
+    - [Monospace fonts](#monospace-fonts)
+    - [Highlighting](#highlighting)
+  - [Images](#images)
+  - [GitHub icons and illustrations](#github-icons-and-illustrations)
     - [Icons](#icons)
-    - [Replacing Icons in Keynote](#replace-icons-keynote)
-    - [Replacing Icons in Google Slides](#replace-icons-google-slides)
-- [Backgrounds](#backgrounds)
-    - [Background Images](#background-images)
-- [Slide Types](#slide-types)
-    - [Charts](#charts)
+      - [Replacing icons in Keynote](#replace-icons-keynote)
+      - [Replacing icons in Google Slides](#replace-icons-google-slides)
+   - [Illustrations](#illustrations)
+  - [Backgrounds](#backgrounds)
+    - [Background images](#background-images)
+- [Slide types](#slide-types)    
     - [Quotes](#quotes)
     - [Reactions](#reactions)
+    - [Charts](#charts)
+      - [Charts in Keynote](#charts-in-keynote)
+      - [Charts in Google Slides](#charts-in-google-slides)
+- [Resources](#resources)
+- [Versioning](#versioning)
 
 # Introduction
 Welcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.
@@ -18,7 +35,7 @@ Welcome to the Primer Presentations design system! Primer Presentations is the p
 **Basic Principles**
 - **You're a storyteller.** When you give a presentation, you're not just sharing data and analysis, you're also telling a story with a unique and important message.
 - **Slides aren't everything.** Your slides are meant to support your presentation. But don't depend on them to the point where you're cramming every idea in your brain into text on the slide. When it comes to adding text, remember that less is more. If you find yourself with too much text, ask yourself, "What is my key message?"
-- **Be concise.** Keep your content short and direct. Too much text creates a conflict for the audience as they are stuck between reading what's on the slide and listening to what you have to say. Instead of paragraphs of text, use a few bullet points to supplement your message. 
+- **Be concise.** Keep your content short and direct. Too much text creates a conflict for the audience as they are stuck between reading what's on the slide and listening to what you have to say. Instead of paragraphs of text, use a few bullet points to supplement your message.
 
 ---
 
@@ -39,13 +56,13 @@ Keynote templates are available for download to the members of the GitHub organi
 
 If you have any issues viewing them, please ping [@ashygee](https://github.slack.com/team/UDY7XTA79) for assistance.
 
-## Google Slides
+### Google Slides
 
 Technology Theme v1 is available for use in the Google Slides template gallery.
 
 ![slides-template](https://user-images.githubusercontent.com/10384315/54726109-ce1b8680-4b2e-11e9-8746-4b83dae92a16.gif)
 
-## Figma
+### Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
 To use, enable the Presentation - Technology Theme v1 in the Team libraries.
@@ -56,6 +73,50 @@ For more information on using Figma libraries, please refer to [Figma's document
 ---
 
 # Design Guidelines
+
+## Text styling
+The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
+
+### Font Sizing
+|   Type  | Keynote | Google Slides |
+| :-----: | :-----: | :-----------: |
+|    H1   |   100   |      40       |
+|    H2   |   72    |      30       |
+|    H3   |   64    |      24       |
+|    H4   |   56    |      18       |
+|   Body  |   48    |      16       |
+
+### Monospace Fonts
+Monospace fonts are used for quote attributions, code, and labels/eyebrow text.
+
+### Highlighting
+Highlighting is great for indicating important points that you'd like your audience to remember from a statement or quote. In our system, highlights are represented by altering the color of the text.
+
+**Usage guidelines:**
+
+- **Avoid multiple highlights.** Highlights should be used sparingly to only highlight key words or phrases on the slide. Too many highlights will confuse your audience in regards to what the most important take away should be.
+- **Emphasis over decoration** Remember that when you're highlighting text you're telling the audience, "This is important". Be sure to ask yourself "Is the highlight necessary to add emphasis to my talking point?" before highlighting.
+
+Don't | 🚫
+:---: | :---:
+Use too many highlights. | <img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png">
+
+Do | ✅
+:---: | :---:
+Highlight important points that your audience should pay attention to. | <img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
+
+#### Recommended highlight color pairings
+
+All highlight colors come from the [Primer color system](https://styleguide.github.com/primer/support/color-system/). We've supplied a list of recommended highlight colors below.
+
+|   Background  |  Highlight  | Hex value |
+| :-----------: | :---------: | :-------: |
+|     Black     |  yellow-400 |  #ffdf5d  |
+|     Black     |   blue-400  |  #2188ff  |
+|     Black     |   red-400   |  #ea4a5a  |
+|     White     |   blue-600  |  #005cc5  |
+|     White     |   red-500   |  #d73a49  |
+
 
 ## Images
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
@@ -77,7 +138,7 @@ You are allowed to use certain illustrations provided by our awesome creative te
 - **Don't** alter the illustrations.
 - **Don't** combine images that use different stylings
 
-## Icons
+### Icons
 Icons are used to show a visual association with different objects (e.g., The core four include: Developers, Teams, Enterprise, and Maintainers). There are two sets of icons specific to GitHub: the [GitHub marketing icons](https://primer.github.io/presentations/assets-list.html#marketing-icons) and the [Octicons](https://octicons.github.com/).
 
 <img width="960" alt="Screenshot 2019-03-18 13 33 46" src="https://user-images.githubusercontent.com/10384315/54570993-0475cc00-499e-11e9-9758-c67f9a6ca04e.png">
@@ -105,6 +166,13 @@ Icons are used to show a visual association with different objects (e.g., The co
 - On slide, click placeholder icon
 - Click Replace Image > By URL
 - Paste URL copied from ghicons.github.com
+
+### Illustrations
+
+There is a wide variety of illustrations that are available to use for your presentation. The [Octodex](https://octodex.github.com/) is full of pre-approved Octocat illustrations. If you'd like to customize your own Octocat, use the [Octocat Generator](https://myoctocat.com/).
+
+If you are looking for a specific illustration please contact [@ashygee](https://github.slack.com/team/UDY7XTA79).
+
 
 ## Backgrounds
 Background colors should be limited to the colors provided in the template.
@@ -180,54 +248,6 @@ To add a chart in Google slides, click `Insert > Chart` and select the type of c
 If you already have your data in a specific Google Sheet, click `From Sheets...`
 
 To edit the data in the chart, select the chart and click the dropdown arrow in the top right corner. Select `Open Source` and you will be moved to the Google Sheet containing the data for your chart. Within the Sheet, you can update values and customize the appearance of your Chart. To view any of the changes made to your chart and/or it's data, click `Update` to refresh the chart.
-
-## Text styling
-The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
-
-#### Font Sizing
-|   Type  | Keynote | Google Slides |
-| :-----: | :-----: | :-----------: |
-|    H1   |   100   |      40       |
-|    H2   |   72    |      30       |
-|    H3   |   64    |      24       |
-|    H4   |   56    |      18       |
-|   Body  |   48    |      16       |
-
-### Monospace Fonts
-Monospace fonts are used for quote attributions, code, and labels/eyebrow text.
-
-### Highlighting
-Highlighting is great for indicating important points that you'd like your audience to remember from a statement or quote. In our system, highlights are represented by altering the color of the text.
-
-**Usage guidelines:**
-
-- **Avoid multiple highlights.** Highlights should be used sparingly to only highlight key words or phrases on the slide. Too many highlights will confuse your audience in regards to what the most important take away should be.
-- **Emphasis over decoration** Remember that when you're highlighting text you're telling the audience, "This is important". Be sure to ask yourself "Is the highlight necessary to add emphasis to my talking point?" before highlighting.
-
-
-
-Don't | 🚫
-:---: | :---:
-Use too many highlights. | <img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png">
-
-Do | ✅
-:---: | :---:
-Highlight important points that your audience should pay attention to. | <img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
-
-
-
-#### Recommended highlight color pairings
-
-All highlight colors come from the [Primer color system](https://styleguide.github.com/primer/support/color-system/). We've supplied a list of recommended highlight colors below.
-
-|   Background  |  Highlight  | Hex value |
-| :-----------: | :---------: | :-------: |
-|     Black     |  yellow-400 |  #ffdf5d  |
-|     Black     |   blue-400  |  #2188ff  |
-|     Black     |   red-400   |  #ea4a5a  |
-|     White     |   blue-600  |  #005cc5  |
-|     White     |   red-500   |  #d73a49  |
-
 
 # Resources
 - [Full assets list](assets-list.md)

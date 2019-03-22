@@ -121,7 +121,7 @@ All highlight colors come from the [Primer color system](https://styleguide.gith
 ## Images
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
 
-#### Usage guidelines:
+### Usage guidelines:
 
 Don't | 🚫
 :---: | :---:
@@ -130,6 +130,39 @@ Use images with opposite backgrounds to the slide background. | <img width="500"
 Do | ✅
 :---: | :---:
 Use images with a similar or transparent background. | <img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png">
+
+### Adding images
+
+Images can be easily added to any presentation by simply drag and dropping, copy and pasting, or inserting from the toolbar in Keynote, Google Slides, and Figma.
+
+#### Adding images in Keynote
+
+|    Source   |  Description  |  Example  |
+| :---------: | :-----------: | :-------: |
+| Browser | Drag and drop any image from the web browser into Keynote | ![keynote-image-web](https://user-images.githubusercontent.com/10384315/54856849-b6243e00-4cb9-11e9-8eb1-43cdb86a6fb1.gif) |
+| Local machine | Drag and drop any image from the Finder into Keynote | ![keynote-image-finder](https://user-images.githubusercontent.com/10384315/54856962-2af77800-4cba-11e9-92e4-5e80d02818dc.gif) |
+
+#### Replacing images in Keynote
+|    Step   | Example  |
+| :---------: | :-------: |
+| Select the image and click the `Image` tab | ![keynote-image-replace-1](https://user-images.githubusercontent.com/10384315/54857498-d7d2f480-4cbc-11e9-9f53-8e1945758d41.gif) |
+| Click the `Replace` | ![Screenshot 2019-03-22 16 05 39](https://user-images.githubusercontent.com/10384315/54857393-5a0ee900-4cbc-11e9-8e73-802d195c424c.png) |
+| Select the new image and click `Open` | ![keynote-image-replace-3](https://user-images.githubusercontent.com/10384315/54857324-f8e71580-4cbb-11e9-9570-8d5022954806.gif) |
+
+#### Adding images in Google Slides
+
+|    Source   |  Description  |  Example  |
+| :---------: | :-----------: | :-------: |
+| Browser | Drag and drop any image from any tab in your web browser into the tab with Google Slides | ![google-slide-add-image-3](https://user-images.githubusercontent.com/10384315/54857774-5d0ad900-4cbe-11e9-8eee-25caa07a47aa.gif) |
+| Local Machine | In the toolbar select `Insert > Image > Upload from computer` | ![google-slide-add-image-1](https://user-images.githubusercontent.com/10384315/54857772-5c724280-4cbe-11e9-8db6-2a4479eb2048.gif) |
+| By URL | In the toolbar select `Insert > Image > By URL` and paste the image's URL | ![google-slide-add-image-2](https://user-images.githubusercontent.com/10384315/54857773-5d0ad900-4cbe-11e9-97cd-72d17e10c485.gif) |
+
+#### Replacing images in Google Slides
+|    Step   | Example  |
+| :---------: | :-------: |
+| With the image selected, click the `Replace Image` in the toolbar | ![Screenshot 2019-03-22 16 33 02](https://user-images.githubusercontent.com/10384315/54858122-2cc43a00-4cc0-11e9-9dd7-84eccb7128e2.png) |
+| Select which method to replace your image | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"> |
+
 
 ## GitHub Icons and Illustrations
 You are allowed to use certain illustrations provided by our awesome creative team in your presentation. Please _**only**_ use approved art provided within the [Asset Library](). If you cannot find what you are looking for or would like to request something specific, please create an issue within the [presentations repo](https://github.com/primer/presentations/).

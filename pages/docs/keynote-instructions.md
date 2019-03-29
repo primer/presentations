@@ -1,6 +1,13 @@
+---
+title: Keynote
+path: docs/keynote
+---
+
+
+
 # Keynote instructions
 
-Currently the main 
+Currently the main
 
 ## Footer variables
 

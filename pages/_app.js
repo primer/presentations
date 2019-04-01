@@ -4,7 +4,7 @@ import {MDXProvider} from '@mdx-js/tag'
 import {withMDXLive} from 'mdx-live'
 import documents from '../searchIndex'
 import Head from 'next/head'
-import {pageMap} from '@primer/blueprints/meta'
+import {pageMap} from '../meta'
 import {
   MarkdownHeading,
   SideNav,
@@ -14,6 +14,7 @@ import {
   JumpNav,
   Section,
   Link,
+  NavLink,
   Outline,
   config
 } from '@primer/blueprints'
@@ -75,7 +76,7 @@ export default class MyApp extends App {
       <BaseStyles fontSize={2} style={{fontFamily: theme.fonts.normal}}>
         <Container>
           <Head>
-            <title>Primer Blueprints{meta.title ? ` / ${meta.title}` : null}</title>
+            <title>Primer Presentation{meta.title ? ` / ${meta.title}` : null}</title>
           </Head>
           <Header
             documents={documents}
@@ -122,10 +123,7 @@ export default class MyApp extends App {
                 <ResponsiveJumpNav />
               </Box>
               <SideNav>
-                <RouteMatch path="/blueprints">
-                  <Section path="content-components" />
-                  <Section path="navigation-components" />
-                </RouteMatch>
+                <Section href="/presentations">Docs</Section>
               </SideNav>
             </BorderBox>
           </Flex>

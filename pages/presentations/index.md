@@ -105,11 +105,11 @@ Highlighting is great for indicating important points that you'd like your audie
 
 Don't | 🚫
 :---: | :---:
-Use too many highlights. | <img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png">
+Use too many highlights. | <img width="500" alt="Screenshot 2019-03-19 16 49 41" src="https://user-images.githubusercontent.com/10384315/54649333-ffc91a80-4a66-11e9-9fc3-190b41e054ff.png"/>
 
 Do | ✅
 :---: | :---:
-Highlight important points that your audience should pay attention to. | <img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png">
+Highlight important points that your audience should pay attention to. | <img width="500" alt="Screenshot 2019-03-14 10 58 58" src="https://user-images.githubusercontent.com/10384315/54390303-61504a00-465f-11e9-9c46-19ad028e3bdd.png"/>
 
 #### Recommended highlight color pairings
 
@@ -131,11 +131,11 @@ When using a screenshot, it’s best to match the background. We suggest to take
 
 Don't | 🚫
 :---: | :---:
-Use images with opposite backgrounds to the slide background. | <img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png">
+Use images with opposite backgrounds to the slide background. | <img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"/>
 
 Do | ✅
 :---: | :---:
-Use images with a similar or transparent background. | <img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png">
+Use images with a similar or transparent background. | <img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"/>
 
 ### Adding images
 
@@ -167,7 +167,7 @@ Images can be easily added to any presentation by simply drag and dropping, copy
 |    Step   | Example  |
 | :---------: | :-------: |
 | With the image selected, click the `Replace Image` in the toolbar | ![Screenshot 2019-03-22 16 33 02](https://user-images.githubusercontent.com/10384315/54858122-2cc43a00-4cc0-11e9-9dd7-84eccb7128e2.png) |
-| Select which method to replace your image | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"> |
+| Select which method to replace your image | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"/> |
 
 
 ## GitHub Icons and Illustrations
@@ -180,7 +180,7 @@ You are allowed to use certain illustrations provided by our awesome creative te
 ### Icons
 Icons are used to show a visual association with different objects (e.g., The core four include: Developers, Teams, Enterprise, and Maintainers). There are two sets of icons specific to GitHub: the [GitHub marketing icons](https://primer.github.io/presentations/assets-list.html#marketing-icons) and the [Octicons](https://octicons.github.com/).
 
-<img width="960" alt="Screenshot 2019-03-18 13 33 46" src="https://user-images.githubusercontent.com/10384315/54570993-0475cc00-499e-11e9-9758-c67f9a6ca04e.png">
+<img width="960" alt="Screenshot 2019-03-18 13 33 46" src="https://user-images.githubusercontent.com/10384315/54570993-0475cc00-499e-11e9-9758-c67f9a6ca04e.png"/>
 
 #### Replace icons (Keynote)
 
@@ -188,11 +188,11 @@ Icons are used to show a visual association with different objects (e.g., The co
 
 | Step | Example |
 | --- | --- |
-| 1. Open [GitHub-keynote-icons.key](https://primer.github.io/presentations/assets-list.html#marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"> |
-| 2. Select icon and copy | <img width="500" alt="Screenshot 2019-03-18 13 41 25" src="https://user-images.githubusercontent.com/10384315/54570982-f45dec80-499d-11e9-9a40-66f3dda7e1e7.png"> |
-| 3. In your presentation, select your icon layout template (1-4 icons available) | <img width="248" alt="Screenshot 2019-03-21 11 51 42" src="https://user-images.githubusercontent.com/10384315/54777536-ba742c80-4bcf-11e9-81e5-df0e518d8ad5.png"> |
-| 4. Select the icon you would like to replace | <img width="500" alt="Screenshot 2019-03-18 13 35 00" src="https://user-images.githubusercontent.com/10384315/54570980-f3c55600-499d-11e9-8936-f24830c20413.png"> |
-| 5. Paste | <img width="500" alt="Screenshot 2019-03-18 13 43 43" src="https://user-images.githubusercontent.com/10384315/54570983-f45dec80-499d-11e9-9434-07a24f7686d2.png"> |
+| 1. Open [GitHub-keynote-icons.key](https://primer.github.io/presentations/assets-list.html#marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"/> |
+| 2. Select icon and copy | <img width="500" alt="Screenshot 2019-03-18 13 41 25" src="https://user-images.githubusercontent.com/10384315/54570982-f45dec80-499d-11e9-9a40-66f3dda7e1e7.png"/> |
+| 3. In your presentation, select your icon layout template (1-4 icons available) | <img width="248" alt="Screenshot 2019-03-21 11 51 42" src="https://user-images.githubusercontent.com/10384315/54777536-ba742c80-4bcf-11e9-81e5-df0e518d8ad5.png"/> |
+| 4. Select the icon you would like to replace | <img width="500" alt="Screenshot 2019-03-18 13 35 00" src="https://user-images.githubusercontent.com/10384315/54570980-f3c55600-499d-11e9-8936-f24830c20413.png"/> |
+| 5. Paste | <img width="500" alt="Screenshot 2019-03-18 13 43 43" src="https://user-images.githubusercontent.com/10384315/54570983-f45dec80-499d-11e9-9434-07a24f7686d2.png"/> |
 
 #### Replace icons (Google Slides)
 
@@ -216,19 +216,19 @@ If you are looking for a specific illustration please contact [@ashygee](https:/
 ## Backgrounds
 Background colors should be limited to the colors provided in the template.
 
-<img width="500" alt="Screenshot 2019-03-19 16 30 13" src="https://user-images.githubusercontent.com/10384315/54648634-49fccc80-4a64-11e9-9e86-25ccd1a07870.png">
+<img width="500" alt="Screenshot 2019-03-19 16 30 13" src="https://user-images.githubusercontent.com/10384315/54648634-49fccc80-4a64-11e9-9e86-25ccd1a07870.png"/>
 
 #### Usage guidelines:
 
 Don't | :no_entry_sign:
 :---: | :--:
-Use gradients or colors outside the provided template. | <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png">
-Use tiled images. | <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png">
+Use gradients or colors outside the provided template. | <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"/>
+Use tiled images. | <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"/>
 
 
 ### Background Images
 
-<img width="500" alt="Section Title - Hubot" src="https://user-images.githubusercontent.com/10384315/54648755-b11a8100-4a64-11e9-8e9f-d04cf096224a.png">
+<img width="500" alt="Section Title - Hubot" src="https://user-images.githubusercontent.com/10384315/54648755-b11a8100-4a64-11e9-8e9f-d04cf096224a.png"/>
 
 Background images should be used _only_ to support, not to distract the viewers. Lower the opacity of a background image to maintain readability.
 
@@ -236,11 +236,11 @@ Background images should be used _only_ to support, not to distract the viewers.
 
 Don't | 🚫
 :---: | :---:
-Use busy background images when paired with text. | <img width="500" alt="bg-dont" src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png">
+Use busy background images when paired with text. | <img width="500" alt="bg-dont" src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png"/>
 
 Do | ✅
 :---: | :---:
-Background images should be dimmed to 25% opacity. | <img width="500" alt="bg-do" src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png">
+Background images should be dimmed to 25% opacity. | <img width="500" alt="bg-do" src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png"/>
 
 ## Slide types
 ### Quotes
@@ -268,12 +268,12 @@ Keynote | Google Slides
 
 Don't | 🚫
 :---: | :---:
-Add a chart with a white background to a black slide. | <img width="500" alt="Screenshot 2019-03-19 16 40 29" src="https://user-images.githubusercontent.com/10384315/54649021-b88e5a00-4a65-11e9-9288-9d2a1c8e9428.png">
+Add a chart with a white background to a black slide. | <img width="500" alt="Screenshot 2019-03-19 16 40 29" src="https://user-images.githubusercontent.com/10384315/54649021-b88e5a00-4a65-11e9-9288-9d2a1c8e9428.png"/>
 
 
 Do | ✅
 :---: | :---:
-Use a white slide for charts with white backgrounds. | <img width="500" alt="Screenshot 2019-03-19 16 36 58" src="https://user-images.githubusercontent.com/10384315/54648916-487fd400-4a65-11e9-8e8f-ae4914910617.png">
+Use a white slide for charts with white backgrounds. | <img width="500" alt="Screenshot 2019-03-19 16 36 58" src="https://user-images.githubusercontent.com/10384315/54648916-487fd400-4a65-11e9-8e8f-ae4914910617.png"/>
 
 ### Charts in Keynote
 To add a chart in Keynote click the ![Chart button](https://user-images.githubusercontent.com/10384315/54716264-97377780-4b12-11e9-828f-f006a0679c50.png) button in the top toolbar.

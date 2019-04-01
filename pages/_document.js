@@ -1,9 +1,7 @@
 import React from 'react'
 import Document, {Head, Main, NextScript} from 'next/document'
 import {ServerStyleSheet} from 'styled-components'
-import {utils} from '@primer/blueprints'
-
-const {getAssetPath, CommonStyles, CommonScripts} = utils
+import {getAssetPath, CommonStyles, CommonScripts} from '@primer/blueprints'
 
 export default class MyDocument extends Document {
   static getInitialProps({renderPage}) {
@@ -28,7 +26,7 @@ export default class MyDocument extends Document {
           <link rel="apple-touch-icon" href={getAssetPath('apple-touch-icon.png')} />
           <link rel="stylesheet" href="https://unpkg.com/primer-markdown@4.0.0/build/build.css" />
           <meta name="viewport" content="width=device-width,initial-scale=1" />
-          <meta property="og:title" content="Primer CSS" />
+          <meta property="og:title" content="Primer Presentations" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://primer.style/blueprints/" />
           <meta property="og:description" content="Shareable Components from Primer Documentation Sites" />

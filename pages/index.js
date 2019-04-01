@@ -1,2 +1,2 @@
-import {redirect} from '@primer/blueprints'
+import redirect from '../redirect'
 export default redirect('/presentations')

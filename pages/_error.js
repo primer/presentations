@@ -1,8 +1,6 @@
 import React from 'react'
 import {Heading} from '@primer/components'
-import {redirect} from '@primer/blueprints'
-
-const {redirectTrailingSlash} = redirect
+import {redirectTrailingSlash} from '../redirect'
 
 export default class Error extends React.Component {
   static getInitialProps(context) {
@@ -17,11 +15,6 @@ export default class Error extends React.Component {
         <Heading>Whoops! That’s a {statusCode}.</Heading>
         <p>
           We couldn’t find anything at <code>{url}</code>.
-          {null && (
-            <>
-              Have you tried <a href={`/css/search?q=${encodeURIComponent(url)}`}>searching</a>?
-            </>
-          )}
         </p>
       </>
     )

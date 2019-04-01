@@ -13,11 +13,9 @@
   "files": [
     ".babelrc",
     "lib",
-    "meta.js",
     "next.config.js",
     "package-lock.json",
     "pages",
-    "rollup.config.js",
     "static"
   ]
 }

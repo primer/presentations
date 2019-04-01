@@ -1,4 +1,6 @@
 # Primer Presentations
+**Get the templates:** [Keynote](https://drive.google.com/open?id=1OSiR4aPmVZ3UKbLsHIDpoVILYU1Zx3tp) | [Google Slides](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1) | [Figma](https://www.figma.com/file/0mXCPvPvDgbtiMEIa5Z8DSh9/GitHub-Presentation-Template?node-id=267%3A0)
+
 _Last updated: March 22, 2019_
 
 <img width="1012" alt="presentation-teampost" src="https://user-images.githubusercontent.com/10384315/55268551-ec2c6980-5247-11e9-8769-cc8949a453d9.png">
@@ -31,22 +33,24 @@ If there are any inconsistencies or bugs, please [submit and issue](https://gith
 
 ## Theme templates
 
-Primer currently has one official theme available that we support, **Technology Theme v1**. This theme was created with the purpose to support the technology organization within GitHub.
+Primer currently has one official theme available that we support, the **GitHub Presentation template**. This theme was created with the purpose to support the internal presentations within GitHub.
 
 ### Keynote
-Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln). [Installation Instructions](keynote-instructions.md).
+The GitHub presentation template is available as both a Keynote deck and as a Keynote theme. They are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1OSiR4aPmVZ3UKbLsHIDpoVILYU1Zx3tp).
+
+**Need help?** Read the [installation instructions](keynote-instructions.md).
 
 ### Google Slides
 
 The GitHub presentation template is available for use in the Google Slides template gallery.
 
-![slides-template](https://user-images.githubusercontent.com/10384315/54726109-ce1b8680-4b2e-11e9-8746-4b83dae92a16.gif)
+![googleslides](https://user-images.githubusercontent.com/10384315/55342464-b95bbe80-545d-11e9-8897-b311cc51f489.gif)
 
 ### Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
 To use, enable the GitHub Presentation Template in the Team libraries.
-![figma](https://user-images.githubusercontent.com/10384315/54726257-8fd29700-4b2f-11e9-8fa4-625a8ace25cf.gif)
+![figma](https://user-images.githubusercontent.com/10384315/55271261-0fb2dc80-5267-11e9-94bd-5268f1e2f9fb.gif)
 
 For more information on using Figma libraries, please refer to [Figma's documentation](https://help.figma.com/article/29-team-library).
 

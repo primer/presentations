@@ -220,8 +220,6 @@ Do ✅ | Don't 🚫
 Background images should be dimmed to 25% opacity. | Use busy background images when paired with text.
 
 
----
-
 ## Slide types
 ### Quotes
 Quotes are set up in two different layouts: left-aligned and centered.
@@ -249,13 +247,13 @@ Do ✅ | Don't 🚫
 Use a white slide for charts with white backgrounds. | Add a chart with a white background to a black slide.
 
 
-### Charts in Keynote
+#### Charts in Keynote
 To add a chart in Keynote click the ![Chart button](https://user-images.githubusercontent.com/10384315/54716264-97377780-4b12-11e9-828f-f006a0679c50.png) button in the top toolbar.
 
 To edit the data in the chart click the chart (if not already selected) and click the `Edit Chart Data` button.
 A small spreadsheet window will appear and you can copy/paste your data into the cells.
 
-### Charts in Google Slides
+#### Charts in Google Slides
 To add a chart in Google slides, click `Insert > Chart` and select the type of chart you would like to use.
 
 If you already have your data in a specific Google Sheet, click `From Sheets...`

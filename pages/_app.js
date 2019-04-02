@@ -4,7 +4,9 @@ import {MDXProvider} from '@mdx-js/tag'
 import {withMDXLive} from 'mdx-live'
 import documents from '../searchIndex'
 import Head from 'next/head'
-import {pageMap} from '../meta'
+import Pages from '@primer/next-pages'
+
+const {pageMap = new Map()} = Pages
 import {
   MarkdownHeading,
   SideNav,

@@ -58,6 +58,23 @@ For more information on using Figma libraries, please refer to [Figma's document
 
 # Design Guidelines
 
+## Color palette
+
+MacOS has it's own system-wide color picker for managing color palettes, meaning you can easily import our entire color system to customize your slides.
+
+1. Download or clone this repository.
+2. Open Keynote and the color picker with **View** > **Show Colors** (or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>). Click the gear icon and **Open...** to load the palette.
+
+  <img width="640" alt="screen shot 2017-05-17 at 3 50 31 pm" src="https://cloud.githubusercontent.com/assets/98681/26179462/b9662e34-3b18-11e7-9e43-9684f690e9c3.png">
+
+3. Navigate to and select the `colors/github.clr` file in this repository.
+
+  <img width="326" alt="screen shot 2017-05-17 at 3 51 16 pm" src="https://cloud.githubusercontent.com/assets/98681/26179461/b95bc30e-3b18-11e7-92f3-725e35f20ecb.png">
+
+4. Profit!!!???
+
+![keynote-color-palette](https://user-images.githubusercontent.com/98681/29694430-fb92f938-88f0-11e7-9e5b-666236fd8100.png)
+
 ## Text styling
 The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
 

@@ -1,4 +1,11 @@
-# Assets list
+---
+title: Assets
+path: presentations/assets
+---
+
+
+
+# Assets
 This document contains a running list of all of the visual assets used for presentations.
 ## Icons
 ### Octicons

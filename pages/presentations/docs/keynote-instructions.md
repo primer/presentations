@@ -1,6 +1,6 @@
 ---
 title: Keynote
-path: docs/keynote
+path: presentations/keynote
 ---
 
 

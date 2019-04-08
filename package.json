@@ -20,6 +20,9 @@
   "devDependencies": {
     "@mdx-js/mdx": "^0.16.6",
     "@mdx-js/tag": "0.15.0",
+    "@primer/blueprints": "^3.0.2-rc.1e8bd4f",
+    "@primer/components": "12.0.1",
+    "@primer/next-pages": "0.0.3",
     "@svgr/webpack": "2.4.1",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
@@ -40,22 +43,19 @@
     "next-compose-plugins": "2.1.1",
     "node-sass": "^4.10.0",
     "now": "^12.1.8",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.1",
     "refractor": "^2.6.2",
     "remark-emoji": "^2.0.2",
     "remark-images": "^0.16.1",
     "remark-parse": "^6.0.3",
     "remark-textr": "^3.0.3",
     "remark-toc": "^5.1.1",
+    "styled-components": "4.2.0",
     "title-case": "^2.1.1",
     "typographic-base": "^1.0.4",
     "unist-util-select": "^2.0.0",
     "unist-util-stringify-position": "^2.0.0",
     "unist-util-visit": "^1.4.0"
-  },
-  "dependencies": {
-    "@primer/blueprints": "^3.0.1",
-    "@primer/components": "12.0.1",
-    "@primer/next-pages": "0.0.3",
-    "styled-components": "4.2.0"
   }
 }

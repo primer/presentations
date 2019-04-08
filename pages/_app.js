@@ -18,9 +18,10 @@ import {
   Link,
   NavLink,
   Outline,
+  NavList,
   config
 } from '@primer/blueprints'
-import {BaseStyles, BorderBox, Box, Flex, theme} from '@primer/components'
+import {BaseStyles, Text, BorderBox, Box, Flex, theme} from '@primer/components'
 
 const CONTENT_MAX_WIDTH = 1012
 
@@ -64,6 +65,7 @@ export default class MyApp extends App {
 
     return {initialProps}
   }
+
 
   render() {
     // strip the trailing slash
@@ -125,7 +127,12 @@ export default class MyApp extends App {
                 <ResponsiveJumpNav />
               </Box>
               <SideNav>
-                <Section href="/presentations">Docs</Section>
+                <Box px={5} pt={5} display={['block', 'block', 'block', 'none']}>
+                <Text fontFamily="mono">Primer Presentations</Text>
+                </Box>
+                <RouteMatch path="/presentations">
+                  <Section path="docs" />
+                </RouteMatch>
               </SideNav>
             </BorderBox>
           </Flex>

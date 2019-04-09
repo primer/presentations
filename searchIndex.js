@@ -1,13 +1,13 @@
 export default {
-  "presentations/index": {
-    "title": "Primer Presentations",
-    "path": "presentations/index",
-    "content": "\n_Last updated: March 22, 2019_\n\n### Introduction\nWelcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.\n\n**Basic Principles**\n- **You're a storyteller.** When you give a presentation, you're not just sharing data and analysis, you're also telling a story with a unique and important message.\n- **Slides aren't everything.** Your slides are meant to support your presentation. But don't depend on them to the point where you're cramming every idea in your brain into text on the slide. When it comes to adding text, remember that less is more. If you find yourself with too much text, ask yourself, \"What is my key message?\"\n- **Be concise.** Keep your content short and direct. Too much text creates a conflict for the audience as they are stuck between reading what's on the slide and listening to what you have to say. Instead of paragraphs of text, use a few bullet points to supplement your message.\n"
-  },
   "presentations/assets": {
     "title": "Assets",
     "path": "presentations/assets",
     "content": "\nThis document contains a running list of all of the visual assets used for presentations.\n## Icons\n### Octicons\nOcticons are the standard icon set used on GitHub.\n[Web](https://octicons.github.com/) | [GitHub](https://github.com/primer/octicons) | [Figma](https://www.figma.com/file/FP7lqd1V00LUaT5zvdklkkZr/Octicons)\n### Marketing icons\nThe GitHub Marketing icons were created by the Creative team for use in our web, email, and other digital marketing collateral. Choose from GitHub's brand blue color, or a monochrome white on dark.\n[Web](https://ghicons.github.com/) | [GitHub](https://github.com/github/icons) | [Figma](https://www.figma.com/file/mI7o0RNCbWFhckw2svxKsm/GitHub-Updated-icons-Expanded?node-id=56%3A56)\n## Presentation Templates\n### Keynote\nThe keynote template is available on [Google Drive](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln).\n### Google Slides\nThe Google slides template is available on [Google Drive](https://docs.google.com/presentation/d/1Ex9q_A3-dxWHWw9q2q25KUBmmDkoUMADFKTkVW6o2jw/edit?usp=sharing).\n"
+  },
+  "presentations/index": {
+    "title": "Primer Presentations",
+    "path": "presentations/index",
+    "content": "\n_Last updated: March 22, 2019_\n\n### Introduction\nWelcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.\n\n**Basic Principles**\n- **You're a storyteller.** When you give a presentation, you're not just sharing data and analysis, you're also telling a story with a unique and important message.\n- **Slides aren't everything.** Your slides are meant to support your presentation. But don't depend on them to the point where you're cramming every idea in your brain into text on the slide. When it comes to adding text, remember that less is more. If you find yourself with too much text, ask yourself, \"What is my key message?\"\n- **Be concise.** Keep your content short and direct. Too much text creates a conflict for the audience as they are stuck between reading what's on the slide and listening to what you have to say. Instead of paragraphs of text, use a few bullet points to supplement your message.\n"
   },
   "presentations/docs": {
     "title": "Documentation",

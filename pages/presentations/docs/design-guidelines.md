@@ -3,6 +3,24 @@ title: Design Guidelines
 path: presentations/design-guidelines
 ---
 
+## Color palette
+
+ MacOS has it's own system-wide color picker for managing color palettes, meaning you can easily import our entire color system to customize your slides.
+
+ 1. Download or clone this repository.
+2. Open Keynote and the color picker with **View** > **Show Colors** (or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>). Click the gear icon and **Open...** to load the palette.
+
+   <img width="640" alt="screen shot 2017-05-17 at 3 50 31 pm" src="https://cloud.githubusercontent.com/assets/98681/26179462/b9662e34-3b18-11e7-9e43-9684f690e9c3.png">
+
+ 3. Navigate to and select the `colors/github.clr` file in this repository.
+
+   <img width="326" alt="screen shot 2017-05-17 at 3 51 16 pm" src="https://cloud.githubusercontent.com/assets/98681/26179461/b95bc30e-3b18-11e7-92f3-725e35f20ecb.png">
+
+ 4. Profit!!!???
+
+ ![keynote-color-palette](https://user-images.githubusercontent.com/98681/29694430-fb92f938-88f0-11e7-9e5b-666236fd8100.png)
+
+
 ## Text styling
 The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
 
@@ -73,10 +91,10 @@ Images can be easily added to any presentation by simply drag and dropping, copy
 #### Replacing images in Keynote
 |    Step   | Example  |
 | :---------: | :-------: |
-| Select the image and click the `Image` tab | ![keynote-image-replace-1](https://user-images.githubusercontent.com/10384315/54857498-d7d2f480-4cbc-11e9-9f53-8e1945758d41.gif) |
+| Select the image and click the `Image` tab | ![keynote-replace-1](https://user-images.githubusercontent.com/10384315/55841326-9ecfb800-5ae3-11e9-918a-fc5e9ecfb94b.gif) |
 | Click the `Replace` | ![Screenshot 2019-04-02 13 00 23](https://user-images.githubusercontent.com/10384315/55432266-4d558500-5547-11e9-88b2-21818e9182c3.png)
  |
-| Select the new image and click `Open` | ![keynote-image-replace-3](https://user-images.githubusercontent.com/10384315/54857324-f8e71580-4cbb-11e9-9570-8d5022954806.gif) |
+| Select the new image and click `Open` | ![keynote-replace-2](https://user-images.githubusercontent.com/10384315/55841327-9ecfb800-5ae3-11e9-8277-2c0aa79a0f3a.gif) |
 
 #### Adding images in Google Slides
 

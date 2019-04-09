@@ -3,8 +3,6 @@ title: Presentation Formats
 path: presentations/presentation-formats
 ---
 
-
-# Presentation Formats
 We support the following presentation formats:
 - [Keynote](#keynote)
 - [Google Slides](#google-slides)

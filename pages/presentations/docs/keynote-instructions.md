@@ -4,9 +4,6 @@ path: presentations/keynote
 ---
 
 
-
-# Keynote instructions
-
 Currently the main
 
 ## Footer variables

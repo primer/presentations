@@ -3,9 +3,6 @@ title: Design Guidelines
 path: presentations/design-guidelines
 ---
 
-
-# Design Guidelines
-
 ## Text styling
 The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
 

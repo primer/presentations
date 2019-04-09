@@ -3,7 +3,6 @@ title: Resources
 path: presentations/resources
 ---
 
-# Resources
 - [Full assets list](assets-list.md)
 - [Keynote template](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln)
 - [Google Slides](https://docs.google.com/presentation/d/1Ex9q_A3-dxWHWw9q2q25KUBmmDkoUMADFKTkVW6o2jw/edit?usp=sharing)

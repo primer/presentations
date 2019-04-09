@@ -3,8 +3,6 @@ title: Slide Types
 path: presentations/slide-types
 ---
 
-
-## Slide types
 ### Quotes
 Quotes are set up in two different layouts: left-aligned and centered.
 

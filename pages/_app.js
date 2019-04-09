@@ -5,8 +5,6 @@ import {withMDXLive} from 'mdx-live'
 import documents from '../searchIndex'
 import Head from 'next/head'
 import Pages from '@primer/next-pages'
-
-const {pageMap = new Map()} = Pages
 import {
   MarkdownHeading,
   SideNav,
@@ -16,12 +14,12 @@ import {
   JumpNav,
   Section,
   Link,
-  NavLink,
   Outline,
-  NavList,
   config
 } from '@primer/blueprints'
 import {BaseStyles, Text, BorderBox, Box, Flex, theme} from '@primer/components'
+
+const {pageMap = new Map()} = Pages
 
 const CONTENT_MAX_WIDTH = 1012
 
@@ -49,7 +47,7 @@ function getComponents(page = {}) {
       }
     },
     // "unwrap" <pre> elements around <code> blocks
-    pre: props => props.children,
+    pre: props => props.children
   }
 }
 
@@ -65,7 +63,6 @@ export default class MyApp extends App {
 
     return {initialProps}
   }
-
 
   render() {
     // strip the trailing slash
@@ -128,7 +125,7 @@ export default class MyApp extends App {
               </Box>
               <SideNav>
                 <Box px={5} pt={5} display={['block', 'block', 'block', 'none']}>
-                <Text fontFamily="mono">Primer Presentations</Text>
+                  <Text fontFamily="mono">Primer Presentations</Text>
                 </Box>
                 <RouteMatch path="/presentations">
                   <Section path="docs" />

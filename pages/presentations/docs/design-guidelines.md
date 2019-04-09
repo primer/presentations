@@ -1,62 +1,7 @@
-# Primer Presentations
-**Get the templates:** [Keynote](https://drive.google.com/open?id=1OSiR4aPmVZ3UKbLsHIDpoVILYU1Zx3tp) | [Google Slides](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1) | [Figma](https://www.figma.com/file/0mXCPvPvDgbtiMEIa5Z8DSh9/GitHub-Presentation-Template?node-id=267%3A0)
-
-_Last updated: March 22, 2019_
-
-<img width="1012" alt="presentation-teampost" src="https://user-images.githubusercontent.com/10384315/55268551-ec2c6980-5247-11e9-8769-cc8949a453d9.png">
-
-**Table of Contents**
-- [Introduction](#introduction)
-- [Presentation formats](#presentation-formats)
-- [Design guidelines](#design-guidelines)
-- [Slide types](#slide-types)
-- [Resources](#resources)
-- [Versioning](#versioning)
-
-# Introduction
-Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.
-
-**Basic Principles**
-- **You're a storyteller.** When you give a presentation, you're not just sharing data and analysis, you're also telling a story with a unique and important message.
-- **Slides aren't everything.** Your slides are meant to support your presentation. But don't depend on them to the point where you're cramming every idea in your brain into text on the slide. When it comes to adding text, remember that less is more. If you find yourself with too much text, ask yourself, "What is my key message?"
-- **Be concise.** Keep your content short and direct. Too much text creates a conflict for the audience as they are stuck between reading what's on the slide and listening to what you have to say. Instead of paragraphs of text, use a few bullet points to supplement your message.
-
 ---
-
-# Presentation Formats
-We support the following presentation formats:
-- [Keynote](#keynote)
-- [Google Slides](#google-slides)
-- [Figma](#figma)
-
-If there are any inconsistencies or bugs, please [submit and issue](https://github.com/primer/presentations/issues/).
-
-## Theme templates
-
-Primer currently has one official theme available that we support, the **GitHub Presentation template**. This theme was created with the purpose to support the internal presentations within GitHub.
-
-### Keynote
-The GitHub presentation template is available as both a Keynote deck and as a Keynote theme. They are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1OSiR4aPmVZ3UKbLsHIDpoVILYU1Zx3tp).
-
-**Need help?** Read the [installation instructions](keynote-instructions.md).
-
-### Google Slides
-
-The GitHub presentation template is available for use in the Google Slides template gallery.
-
-![googleslides](https://user-images.githubusercontent.com/10384315/55342464-b95bbe80-545d-11e9-8897-b311cc51f489.gif)
-
-### Figma
-The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
-
-To use, enable the GitHub Presentation Template in the Team libraries.
-![figma](https://user-images.githubusercontent.com/10384315/55271261-0fb2dc80-5267-11e9-94bd-5268f1e2f9fb.gif)
-
-For more information on using Figma libraries, please refer to [Figma's documentation](https://help.figma.com/article/29-team-library).
-
+title: Design Guidelines
+path: presentations/design-guidelines
 ---
-
-# Design Guidelines
 
 ## Text styling
 The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
@@ -110,7 +55,7 @@ When using a screenshot, it’s best to match the background. We suggest to take
 
 Do ✅ | Don't 🚫
 :---: | :---:
-<img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"> | <img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png">
+<img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"/> | <img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"/>
 Use images with a similar or transparent background. | Use images with opposite backgrounds to the slide background.
 
 ### Adding images
@@ -145,7 +90,7 @@ Images can be easily added to any presentation by simply drag and dropping, copy
 |    Step   | Example  |
 | :---------: | :-------: |
 | With the image selected, click the `Replace Image` in the toolbar | ![Screenshot 2019-04-02 13 35 49](https://user-images.githubusercontent.com/10384315/55434339-3feec980-554c-11e9-87aa-607f84827120.png) |
-| Select which method to replace your image | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"> |
+| Select which method to replace your image | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"/> |
 
 
 ## GitHub Icons and Illustrations
@@ -158,7 +103,7 @@ You are allowed to use certain illustrations provided by our awesome creative te
 ### Icons
 Icons are used to show a visual association with different objects (e.g., The core four include: Developers, Teams, Enterprise, and Maintainers). There are two sets of icons specific to GitHub: the [GitHub marketing icons](https://primer.github.io/presentations/assets-list.html#marketing-icons) and the [Octicons](https://octicons.github.com/).
 
-<img width="958" alt="Screenshot 2019-03-29 17 32 58" src="https://user-images.githubusercontent.com/10384315/55268614-b340c480-5248-11e9-9600-03b5bb7e6073.png">
+<img width="958" alt="Screenshot 2019-03-29 17 32 58" src="https://user-images.githubusercontent.com/10384315/55268614-b340c480-5248-11e9-9600-03b5bb7e6073.png"/>
 
 #### Replace icons (Keynote)
 
@@ -167,7 +112,7 @@ Icons are used to show a visual association with different objects (e.g., The co
 
 | Step | Example |
 | --- | --- |
-| 1. Open [GitHub-keynote-icons.key](https://primer.github.io/presentations/assets-list.html#marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"> |
+| 1. Open [GitHub-keynote-icons.key](https://primer.github.io/presentations/assets-list.html#marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"/> |
 | 2. Select icon and copy | ![choose-icon](https://user-images.githubusercontent.com/10384315/55425611-c3ea8680-5537-11e9-877f-6e575e8b50a5.png) |
 | 3. In your presentation, select your icon layout template (1-4 icons available) | ![Select Layout](https://user-images.githubusercontent.com/10384315/54777536-ba742c80-4bcf-11e9-81e5-df0e518d8ad5.png) |
 | 4. Select the icon you would like to replace | ![replace-icon-1](https://user-images.githubusercontent.com/10384315/55426006-9baf5780-5538-11e9-961a-307bb841056e.png) |
@@ -201,9 +146,9 @@ Background colors should be limited to the colors provided in the template.
 
 | Don't 🚫 |
 | :---: |
-| <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"> |
+| <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"/> |
 | Use gradients or colors outside the provided template. |
-| <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"> |
+| <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"/> |
 | Use tiled images. |
 
 ### Background Images
@@ -216,55 +161,8 @@ Background images should be used _only_ to support, not to distract the viewers.
 
 Do ✅ | Don't 🚫
 :---: | :---:
- ![bg-do](https://user-images.githubusercontent.com/10384315/55435376-90672680-554e-11e9-8a8e-ee3ddb902aee.png) | ![bg-dont](https://user-images.githubusercontent.com/10384315/55435377-90672680-554e-11e9-9d72-9f24ece3e3bb.png)
-Background images should be dimmed to 25% opacity. | Use busy background images when paired with text.
+Use busy background images when paired with text. | <img width="500" alt="bg-dont" src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png"/>
 
-
-## Slide types
-### Quotes
-Quotes are set up in two different layouts: left-aligned and centered.
-
-![Short Quote](https://user-images.githubusercontent.com/10384315/55434807-4893cf80-554d-11e9-972e-1024b0453b48.png)
-
-![Long Quote](https://user-images.githubusercontent.com/10384315/55434615-d4f1c280-554c-11e9-9265-a2fd9dd7d470.png)
-
-It is recommended that longer quotes be left-aligned and shorter quotes centered.
-
-### Reactions
-![Celebratory Reaction](https://user-images.githubusercontent.com/10384315/55434447-80e6de00-554c-11e9-8d41-e6492bbf37e6.png)
-
-
-Reaction slides use the GitHub reaction emojis to add a visual cue to a topic.
-
-### Charts
-Charts can be easily added to any slide using the built in chart features in both Keynote and Google Slides.
-
-#### Usage guidelines:
-
-Do ✅ | Don't 🚫
+Do | ✅
 :---: | :---:
-<img width="957" alt="Screenshot 2019-03-29 17 04 01" src="https://user-images.githubusercontent.com/10384315/55268652-129ed480-5249-11e9-865f-2bcd751bb2ba.png"> | <img width="959" alt="Screenshot 2019-03-29 17 03 36" src="https://user-images.githubusercontent.com/10384315/55268651-12063e00-5249-11e9-82a0-a436be3f2038.png">
-Use a white slide for charts with white backgrounds. | Add a chart with a white background to a black slide.
-
-
-#### Charts in Keynote
-To add a chart in Keynote click the ![Chart button](https://user-images.githubusercontent.com/10384315/54716264-97377780-4b12-11e9-828f-f006a0679c50.png) button in the top toolbar.
-
-To edit the data in the chart click the chart (if not already selected) and click the `Edit Chart Data` button.
-A small spreadsheet window will appear and you can copy/paste your data into the cells.
-
-#### Charts in Google Slides
-To add a chart in Google slides, click `Insert > Chart` and select the type of chart you would like to use.
-
-If you already have your data in a specific Google Sheet, click `From Sheets...`
-
-To edit the data in the chart, select the chart and click the dropdown arrow in the top right corner. Select `Open Source` and you will be moved to the Google Sheet containing the data for your chart. Within the Sheet, you can update values and customize the appearance of your Chart. To view any of the changes made to your chart and/or it's data, click `Update` to refresh the chart.
-
-# Resources
-- [Full assets list](assets-list.md)
-- [Keynote template](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln)
-- [Google Slides](https://docs.google.com/presentation/d/1Ex9q_A3-dxWHWw9q2q25KUBmmDkoUMADFKTkVW6o2jw/edit?usp=sharing)
-- [Figma file](https://www.figma.com/file/0mXCPvPvDgbtiMEIa5Z8DSh9/Primer-Deck-v1?node-id=0%3A1)
-
-# Versioning
-Versioning for the Primer presentation system will be logged by date. All updates will be kept in a changelog located in both the presenters notes of a changelog slide and on the Primer presentations site.
+Background images should be dimmed to 25% opacity. | <img width="500" alt="bg-do" src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png"/>

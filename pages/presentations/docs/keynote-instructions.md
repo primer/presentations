@@ -1,6 +1,10 @@
-# Keynote instructions
+---
+title: Keynote
+path: presentations/keynote
+---
 
-Currently the main 
+
+Currently the main
 
 ## Footer variables
 

@@ -10,11 +10,11 @@ path: presentations/design-guidelines
  1. Download or clone this repository.
 2. Open Keynote and the color picker with **View** > **Show Colors** (or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>). Click the gear icon and **Open...** to load the palette.
 
-   <img width="640" alt="screen shot 2017-05-17 at 3 50 31 pm" src="https://cloud.githubusercontent.com/assets/98681/26179462/b9662e34-3b18-11e7-9e43-9684f690e9c3.png">
+   <img width="640" alt="screen shot 2017-05-17 at 3 50 31 pm" src="https://cloud.githubusercontent.com/assets/98681/26179462/b9662e34-3b18-11e7-9e43-9684f690e9c3.png"/>
 
  3. Navigate to and select the `colors/github.clr` file in this repository.
 
-   <img width="326" alt="screen shot 2017-05-17 at 3 51 16 pm" src="https://cloud.githubusercontent.com/assets/98681/26179461/b95bc30e-3b18-11e7-92f3-725e35f20ecb.png">
+   <img width="326" alt="screen shot 2017-05-17 at 3 51 16 pm" src="https://cloud.githubusercontent.com/assets/98681/26179461/b95bc30e-3b18-11e7-92f3-725e35f20ecb.png"/>
 
  4. Profit!!!???
 

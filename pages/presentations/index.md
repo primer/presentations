@@ -3,7 +3,25 @@ title: Primer Presentations
 path: presentations/index
 ---
 
-_Last updated: March 22, 2019_
+import {Box, Heading, Text} from '@primer/components'
+import HeroImage from './HeroImage.svg'
+
+
+export const Hero = () => (
+  <Box bg="black">
+    <Box maxWidth={1012} p={6} mx="auto" mb={3}>
+      <Box mt={4} mb={4}>
+        <Heading color="blue.4" fontSize={7} pb={3} m={0}>
+          Primer Presentations
+        </Heading>
+        <Text as="div" color="blue.2" fontSize={2} mb={4}>
+          Last updated: March 22, 2019
+        </Text>
+        <Box maxWidth={1012}><HeroImage/></Box>
+      </Box>
+    </Box>
+  </Box>
+)
 
 ### Introduction
 Welcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.

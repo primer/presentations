@@ -3,6 +3,23 @@ title: Primer Presentations
 path: presentations/index
 ---
 
+import {Box, Heading, Text} from '@primer/components'
+import HeroImage from './HeroImage.svg'
+
+
+export const Hero = () => (
+  <Box bg="black">
+    <Box maxWidth={1012} p={6} mx="auto" mb={3}>
+      <Box mt={4} mb={4}>
+        <Heading color="blue.4" fontSize={7} pb={3} m={0}>
+          Primer Presentations
+        </Heading>
+        <Box maxWidth={1012}><HeroImage/></Box>
+      </Box>
+    </Box>
+  </Box>
+)
+
 _Last updated: March 22, 2019_
 
 ### Introduction

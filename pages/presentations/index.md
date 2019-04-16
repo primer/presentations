@@ -14,13 +14,14 @@ export const Hero = () => (
         <Heading color="blue.4" fontSize={7} pb={3} m={0}>
           Primer Presentations
         </Heading>
+        <Text as="div" color="blue.2" fontSize={2} mb={4}>
+          Last updated: March 22, 2019
+        </Text>
         <Box maxWidth={1012}><HeroImage/></Box>
       </Box>
     </Box>
   </Box>
 )
-
-_Last updated: March 22, 2019_
 
 ### Introduction
 Welcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.

@@ -1,11 +1,11 @@
 ---
-title: Footer
-path: presentations/footer
+title: Components
+path: presentations/components
 ---
 
-## Footer variables
+## Footer
 
-> Control all Footer Variables within the Master slides.
+> Control all of your footer information via the footer variables within the Master slides.
 
 The footer elements can be updated globally within your presentation in a matter of seconds! Just click the `Variables` slide within the Master Slides and change the `Username`, `Presentation Name`, and `Presentation Note` to your information, and everything will update in real time. Magic! 🧙🏽‍🔮
 

@@ -15,7 +15,11 @@ If there are any inconsistencies or bugs, please contact [@ashygee](https://gith
 Primer currently has one official theme available that we support, **Technology Theme v1**. This theme was created with the purpose to support the technology organization within GitHub.
 
 ### Keynote
-Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln). Installation instructions for the Keynote theme are located [here](keynote-instructions.md).
+Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1jsWOHJL0hvLfmtQBYL3-srjYhom9z7Ln).
+
+#### Installing the Keynote theme
+To install, open the theme file (.kth) in Keynote and click **Add to Theme Chooser**. You will now have the theme available any time you open Keynote.
+![Add to themes](https://user-images.githubusercontent.com/10384315/56325663-e11e7800-6127-11e9-9fd3-4291c937317d.png)
 
 If you have any issues viewing them, please ping [@ashygee](https://github.slack.com/team/UDY7XTA79) for assistance.
 

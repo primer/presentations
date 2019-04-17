@@ -25,7 +25,7 @@ If you have any issues viewing them, please ping [@ashygee](https://github.slack
 
 ### Google Slides
 
-Technology Theme v1 is available for use in the Google Slides template gallery.
+The GitHub Presentation Template is available for use in the Google Slides template gallery.
 
 ![slides-template](https://user-images.githubusercontent.com/10384315/54726109-ce1b8680-4b2e-11e9-8746-4b83dae92a16.gif)
 

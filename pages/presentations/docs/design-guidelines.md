@@ -76,6 +76,13 @@ Do ✅ | Don't 🚫
 <img width="500" alt="image-white" src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"/> | <img width="500" alt="image-black" src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"/>
 Use images with a similar or transparent background. | Use images with opposite backgrounds to the slide background.
 
+#### 📍Tip: Seamless image backgrounds
+If you find yourself needing to use a specific image but the slide background doesn't match, you can change the background color to match the image's background color.
+
+![bg-change](https://user-images.githubusercontent.com/10384315/56434794-05469a00-628b-11e9-8447-93bb44facbec.gif)
+
+
+
 ### Adding images
 
 Images can be easily added to any presentation by simply drag and dropping, copy and pasting, or inserting from the toolbar in Keynote, Google Slides, and Figma.
@@ -112,14 +119,14 @@ Images can be easily added to any presentation by simply drag and dropping, copy
 
 
 ## GitHub Icons and Illustrations
-You are allowed to use certain illustrations provided by our awesome creative team in your presentation. Please _**only**_ use approved art provided within the [Asset Library](). If you cannot find what you are looking for or would like to request something specific, please create an issue within the [presentations repo](https://github.com/primer/presentations/).
+You are allowed to use certain illustrations provided by our awesome creative team in your presentation. Please _**only**_ use approved art provided within the [Asset Library](/presentations/docs/assets). If you cannot find what you are looking for or would like to request something specific, please create an issue within the [presentations repo](https://github.com/primer/presentations/).
 
 **A few guidelines**
 - **Don't** alter the illustrations.
 - **Don't** combine images that use different stylings
 
 ### Icons
-Icons are used to show a visual association with different objects (e.g., The core four include: Developers, Teams, Enterprise, and Maintainers). There are two sets of icons specific to GitHub: the [GitHub marketing icons](https://primer.github.io/presentations/assets-list.html#marketing-icons) and the [Octicons](https://octicons.github.com/).
+Icons are used to show a visual association with different objects (e.g., The core four include: Developers, Teams, Enterprise, and Maintainers). There are two sets of icons specific to GitHub: the [GitHub marketing icons](https://ghicons.github.com/) and the [Octicons](https://octicons.github.com/).
 
 <img width="958" alt="Screenshot 2019-03-29 17 32 58" src="https://user-images.githubusercontent.com/10384315/55268614-b340c480-5248-11e9-9600-03b5bb7e6073.png"/>
 

@@ -8,7 +8,7 @@ We support the following presentation formats:
 - [Google Slides](#google-slides)
 - [Figma](#figma)
 
-If there are any inconsistencies or bugs, please contact [@ashygee](https://github.slack.com/team/UDY7XTA79).
+😕 **Having trouble?** Message us in [#design-systems](https://github.slack.com/messages/C0ZCGGGJ2) for assistance.
 
 ## Theme templates
 
@@ -27,7 +27,7 @@ To install, open the theme file (`.kth`) in Keynote and click **Add to Theme Cho
 
 You will now have the theme available any time you open Keynote.
 
-If you have any issues viewing them, please ping [@ashygee](https://github.slack.com/team/UDY7XTA79) for assistance.
+If you have any issues viewing them, please message us in [#design-systems](https://github.slack.com/messages/C0ZCGGGJ2) for assistance.
 
 ### Google Slides
 

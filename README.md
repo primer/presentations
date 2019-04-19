@@ -1,6 +1,6 @@
 # Primer Presentation System
 ## Documentation
-Our documentation site currently lives at [https://primer.github.io/presentations/](https://primer.github.io/presentations/). You'll be able to find the information listed in this README as well as detailed docs for presentation guidelines, presentation formats, and assets.
+Our documentation site currently lives at [https://primer.style/presentations/](https://primer.style/presentations/). You'll be able to find the information listed in this README as well as detailed docs for presentation guidelines, presentation formats, and assets.
 ## Installation
 ### Keynote
 #### 1. Installing the theme file
@@ -10,5 +10,3 @@ Click `Add to Theme Chooser`. The theme will now be available in the `My Themes`
 
 #### 2. From a pre-existing presentation
 To install the theme from a pre-existing presentation, use the Keynote template file, simply download the file and double-click the Keynote file (`.key`) to open.
-
-

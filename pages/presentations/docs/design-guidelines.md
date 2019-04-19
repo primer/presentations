@@ -137,7 +137,7 @@ Icons are used to show a visual association with different objects (e.g., The co
 
 | Step | Example |
 | --- | --- |
-| 1. Open [GitHub-keynote-icons.key](https://primer.github.io/presentations/assets-list.html#marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"/> |
+| 1. Open [GitHub-keynote-icons.key](/presentations/docs/assets#Marketing-icons) | <img width="500" alt="Screenshot 2019-03-18 13 35 39" src="https://user-images.githubusercontent.com/10384315/54571249-13a94980-499f-11e9-9643-1401534922d4.png"/> |
 | 2. Select icon and copy | ![choose-icon](https://user-images.githubusercontent.com/10384315/55425611-c3ea8680-5537-11e9-877f-6e575e8b50a5.png) |
 | 3. In your presentation, select your icon layout template (1-4 icons available) | ![Select Layout](https://user-images.githubusercontent.com/10384315/54777536-ba742c80-4bcf-11e9-81e5-df0e518d8ad5.png) |
 | 4. Select the icon you would like to replace | ![replace-icon-1](https://user-images.githubusercontent.com/10384315/55426006-9baf5780-5538-11e9-961a-307bb841056e.png) |

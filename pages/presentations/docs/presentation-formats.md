@@ -4,9 +4,9 @@ path: presentations/presentation-formats
 ---
 
 We support the following presentation formats:
-- [Keynote](#keynote)
-- [Google Slides](#google-slides)
-- [Figma](#figma)
+- [Keynote](#Keynote)
+- [Google Slides](#Google-Slides)
+- [Figma](#Figma)
 
 😕 **Having trouble?** Message us in [#design-systems](https://github.slack.com/messages/C0ZCGGGJ2) for assistance.
 

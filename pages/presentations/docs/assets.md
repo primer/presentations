@@ -12,10 +12,12 @@ Octicons are the standard icon set used on GitHub.
 
 ### Marketing icons
 The GitHub Marketing icons were created by the Creative team for use in our web, email, and other digital marketing collateral. Choose from GitHub's brand blue color, or a monochrome white on dark.
-[Web](https://ghicons.github.com/) | [GitHub](https://github.com/github/icons) | [Figma](https://www.figma.com/file/mI7o0RNCbWFhckw2svxKsm/GitHub-Updated-icons-Expanded?node-id=56%3A56) | [Keynote](https://drive.google.com/open?id=1SgEAakP98krI0TxzXc_B0AAGu4AxI2G5)
+[Web](https://ghicons.github.com/) | [GitHub](https://github.com/github/icons) | [Figma](https://www.figma.com/file/mI7o0RNCbWFhckw2svxKsm/GitHub-Updated-icons-Expanded?node-id=56%3A56) | [Keynote & PowerPoint](https://drive.google.com/open?id=1SgEAakP98krI0TxzXc_B0AAGu4AxI2G5)
 
 ## Presentation Templates
 ### Keynote
-The keynote template is available on [Google Drive](https://drive.google.com/open?id=1OSiR4aPmVZ3UKbLsHIDpoVILYU1Zx3tp).
+The keynote template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
+### PowerPoint
+The powerpoint template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 ### Google Slides
 The Google slides template is available as a custom theme within the [template gallery](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1).

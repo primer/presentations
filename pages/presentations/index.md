@@ -25,7 +25,7 @@ export const Hero = () => (
 
 Welcome to the Primer Presentations design system! Primer Presentations is the presentation design system for GitHub. This repo contains the presentation themes, guidelines, and assets needed in order to create a presentation that represents the GitHub brand.
 
-**Get the template:** [Keynote](https://primer.style/presentations/docs/presentation-formats#keynote) | [Google Slides](https://primer.style/presentations/docs/presentation-formats#google-slides) | [Figma](https://primer.style/presentations/docs/presentation-formats#figma)
+**Get the template:** [Keynote](https://primer.style/presentations/docs/presentation-formats#keynote) | [PowerPoint](https://primer.style/presentations/docs/presentation-formats#powerpoint) | [Google Slides](https://primer.style/presentations/docs/presentation-formats#google-slides) | [Figma](https://primer.style/presentations/docs/presentation-formats#figma)
 
 ### Basic Principles
 - **You're a storyteller.** When you give a presentation, you're not just sharing data and analysis, you're also telling a story with a unique and important message.

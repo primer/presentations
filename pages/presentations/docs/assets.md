@@ -16,7 +16,7 @@ The GitHub Marketing icons were created by the Creative team for use in our web,
 
 ## Presentation Templates
 ### Keynote
-The keynote template is available on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
+The keynote template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
 ### PowerPoint
 The powerpoint template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 ### Google Slides

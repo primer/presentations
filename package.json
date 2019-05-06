@@ -52,6 +52,7 @@
     "remark-textr": "^3.0.3",
     "remark-toc": "^5.1.1",
     "styled-components": "4.2.0",
+    "tar": "^4.4.2",
     "title-case": "^2.1.1",
     "typographic-base": "^1.0.4",
     "unist-util-select": "^2.0.0",

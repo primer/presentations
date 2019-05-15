@@ -7,17 +7,19 @@ This document contains a running list of all of the assets and templates used fo
 
 ## Icons
 ### Octicons
+![Octicons](https://user-images.githubusercontent.com/10384315/57805935-e6fd7e00-7712-11e9-873a-98187da7a06c.png)
 Octicons are the standard icon set used on GitHub.
 [Web](https://octicons.github.com/) | [GitHub](https://github.com/primer/octicons) | [Figma](https://www.figma.com/file/FP7lqd1V00LUaT5zvdklkkZr/Octicons)
 
-### Marketing icons
+### GitHub Marketing icons
+![GitHub Marketing icons](https://user-images.githubusercontent.com/10384315/57806011-13b19580-7713-11e9-8e27-7d481b5314cc.png)
 The GitHub Marketing icons were created by the Creative team for use in our web, email, and other digital marketing collateral. Choose from GitHub's brand blue color, or a monochrome white on dark.
 [Web](https://ghicons.github.com/) | [GitHub](https://github.com/github/icons) | [Figma](https://www.figma.com/file/mI7o0RNCbWFhckw2svxKsm/GitHub-Updated-icons-Expanded?node-id=56%3A56) | [Keynote & PowerPoint](https://drive.google.com/open?id=1SgEAakP98krI0TxzXc_B0AAGu4AxI2G5)
 
 ## Presentation Templates
-### Keynote
+### <img width="24" alt="icon-keynote" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
 The keynote template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
-### PowerPoint
+### <img width="24" alt="icon-powerpoint" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
 The powerpoint template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
-### Google Slides
+### <img width="24" alt="icon-slides" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
 The Google slides template is available as a custom theme within the [template gallery](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1).

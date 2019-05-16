@@ -33,12 +33,12 @@ First, select the **Variables** slide on the **Navigator*** located on the left-
 
 The variables can be easily edited by switching out the content in the right column of the table. If you'd like to leave a section blank, just add an empty space.
 
-![The Variables slide](https://user-images.githubusercontent.com/10384315/56168738-e5fcf380-5f90-11e9-9f31-b906dad3fd77.png)
+![The Variables slide](https://user-images.githubusercontent.com/10384315/57877127-e5dc5780-77cb-11e9-923e-65c2823d70b8.png)
 
 Editing the username, presentation name, etc. is very easy!
 
-![Editing the variables is easy!](https://user-images.githubusercontent.com/10384315/56168751-eeedc500-5f90-11e9-93c1-7c0a51fb1a07.png)
+![Editing the variables is easy!](https://user-images.githubusercontent.com/10384315/57877220-21772180-77cc-11e9-9488-a02f156cfb0b.png)
 
 Any changes to the variables will show up instantly in both the Master slides and the slides in your presentation
 
-![Changes show instantly in the slides in your presentation](https://user-images.githubusercontent.com/10384315/56168758-f7460000-5f90-11e9-91ed-1721dd6f8099.png)
+![Changes show instantly in the slides in your presentation](https://user-images.githubusercontent.com/10384315/57877221-21772180-77cc-11e9-92b4-56d7599511dc.png)

@@ -9,7 +9,7 @@ We support the following presentation formats:
 - [Google Slides](#Google-Slides)
 - [Figma](#Figma)
 
-### Keynote
+### <img width="24" alt="icon-keynote" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
 Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
 
 ![The Keynote files](https://user-images.githubusercontent.com/10384315/56326001-35762780-6129-11e9-915d-949763cb1186.png)
@@ -27,7 +27,7 @@ To install, open the theme file (`.kth`) in Keynote and click **Add to Theme Cho
 
 You will now have the theme available any time you open Keynote.
 
-### PowerPoint
+### <img width="24" alt="icon-powerpoint" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
 PowerPoint templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 
 #### Creating a new presentation
@@ -49,13 +49,13 @@ The main difference is that a `.potx` is a template file which will create a new
 | At the bottom, click on **Browse for Themes**. | ![Browse for Themes](https://user-images.githubusercontent.com/10384315/57048344-6a55a480-6c28-11e9-8f61-70ed23816606.png) |
 | Navigate to your `github-presentation-system-powerpoint` folder | ![Navigate to your file](https://user-images.githubusercontent.com/10384315/57048569-58283600-6c29-11e9-890c-f75694b67d5a.png) |
 
-### Google Slides
+### <img width="24" alt="icon-slides" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
 
 The GitHub Presentation Template is available for use in the Google Slides template gallery.
 
 ![slides-template](https://user-images.githubusercontent.com/10384315/54726109-ce1b8680-4b2e-11e9-8746-4b83dae92a16.gif)
 
-### Figma
+### <img width="24" alt="icon-figma" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
 To use, enable the Presentation - Technology Theme v1 in the Team libraries.

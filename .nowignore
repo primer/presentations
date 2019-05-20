@@ -1,0 +1,6 @@
+*
+!.babelrc
+!next.config.js
+!package-lock.json
+!pages
+!static

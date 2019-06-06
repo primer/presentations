@@ -53,14 +53,13 @@ The main difference is that a `.potx` is a template file which will create a new
 
 The GitHub Presentation Template is available for use in the Google Slides template gallery.
 
-![slides-template](https://user-images.githubusercontent.com/10384315/54726109-ce1b8680-4b2e-11e9-8746-4b83dae92a16.gif)
+![slides-template](https://user-images.githubusercontent.com/10384315/59050642-ac818f80-883f-11e9-9dc4-eccecb3dce0b.gif)
 
 ### <img width="24" alt="icon-figma" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
-To use, enable the Presentation - Technology Theme v1 in the Team libraries.
-![figma](https://user-images.githubusercontent.com/10384315/54726257-8fd29700-4b2f-11e9-8fa4-625a8ace25cf.gif)
-
+To use, enable `GitHub Presentation Template` in the Team libraries.
+![figma-slides](https://user-images.githubusercontent.com/10384315/59050641-abe8f900-883f-11e9-91ac-8a65f1de102c.gif)
 For more information on using Figma libraries, please refer to [Figma's documentation](https://help.figma.com/article/29-team-library).
 
 😕 **Having trouble?** Message us in [#design-systems](https://github.slack.com/messages/C0ZCGGGJ2) for assistance.

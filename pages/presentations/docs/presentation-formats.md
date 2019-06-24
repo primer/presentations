@@ -27,7 +27,7 @@ To install, open the theme file (`.kth`) in Keynote and click **Add to Theme Cho
 
 You will now have the theme available any time you open Keynote.
 
-## <img width="24" alt="icon-powerpoint" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
+## <img width="24" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
 PowerPoint templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 
 ### Creating a new presentation

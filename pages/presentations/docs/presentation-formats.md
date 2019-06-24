@@ -9,7 +9,7 @@ We support the following presentation formats:
 - [Google Slides](#object-Object-Google-Slides)
 - [Figma](#object-Object-Figma)
 
-## <img width="24" alt="icon-keynote" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
+## <img width="24" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
 Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
 
 ![The Keynote files](https://user-images.githubusercontent.com/10384315/56326001-35762780-6129-11e9-915d-949763cb1186.png)

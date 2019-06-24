@@ -4,22 +4,22 @@ path: presentations/presentation-formats
 ---
 
 We support the following presentation formats:
-- [Keynote](#Keynote)
-- [PowerPoint](#PowerPoint)
-- [Google Slides](#Google-Slides)
-- [Figma](#Figma)
+- [Keynote](#object-Object-Keynote)
+- [PowerPoint](#object-Object-PowerPoint)
+- [Google Slides](#object-Object-Google-Slides)
+- [Figma](#object-Object-Figma)
 
-### <img width="24" alt="icon-keynote" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
+## <img width="24" alt="icon-keynote" src="https://user-images.githubusercontent.com/10384315/57806478-12349d00-7714-11e9-9639-20f303945cdc.png" /> Keynote
 Keynote templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
 
 ![The Keynote files](https://user-images.githubusercontent.com/10384315/56326001-35762780-6129-11e9-915d-949763cb1186.png)
 
-#### Creating a new presentation
+### Creating a new presentation
 A new presentation can be created by opening `github-presentation-template.key` or `github-presentation-theme.kth`.
 
 **Note:** If you just open the regular keynote file (`.key), you will need to duplicate this for your own presentation if you do not want to override the template for later use. It is recommended that for your first presentation you open the theme file (`.kth`) and add the theme to your Keynote to use for future use.
 
-#### Installing the Keynote theme
+### Installing the Keynote theme
 
 To install, open the theme file (`.kth`) in Keynote and click **Add to Theme Chooser**.
 
@@ -27,20 +27,20 @@ To install, open the theme file (`.kth`) in Keynote and click **Add to Theme Cho
 
 You will now have the theme available any time you open Keynote.
 
-### <img width="24" alt="icon-powerpoint" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
+## <img width="24" alt="icon-powerpoint" src="https://user-images.githubusercontent.com/10384315/57806529-2b3d4e00-7714-11e9-9e71-fe864c2059a6.png" /> PowerPoint
 PowerPoint templates are available for download to the members of the GitHub organization on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 
-#### Creating a new presentation
+### Creating a new presentation
 A new presentation can be created using either the `.potx` file or the `.pptx` file.
 
-##### .potx vs .pptx: What's the difference?
+#### .potx vs .pptx: What's the difference?
 First of all, both the `.potx` and the `.pptx` will open and create a new document.
 
 The main difference is that a `.potx` is a template file which will create a new presentation with the presentation system theming (slides, colors, type) already in place. The `.pptx` on the other hand will just open like a normal file and you will have to **Save a Copy** or rename for your presentation.
 
 **Tip:** The design systems team recommends using the template(`.potx`) file as this will start a fresh document with everything loaded right away. 😄
 
-#### Installing the PowerPoint themes
+### Installing the PowerPoint themes
 
 | Step | Screenshot |
 | --- | --- |
@@ -49,13 +49,13 @@ The main difference is that a `.potx` is a template file which will create a new
 | At the bottom, click on **Browse for Themes**. | ![Browse for Themes](https://user-images.githubusercontent.com/10384315/57048344-6a55a480-6c28-11e9-8f61-70ed23816606.png) |
 | Navigate to your `github-presentation-system-powerpoint` folder | ![Navigate to your file](https://user-images.githubusercontent.com/10384315/57048569-58283600-6c29-11e9-890c-f75694b67d5a.png) |
 
-### <img width="24" alt="icon-slides" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
+## <img width="24" alt="icon-slides" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
 
 The GitHub Presentation Template is available for use in the Google Slides template gallery.
 
 ![slides-template](https://user-images.githubusercontent.com/10384315/59050642-ac818f80-883f-11e9-9dc4-eccecb3dce0b.gif)
 
-### <img width="24" alt="icon-figma" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
+## <img width="24" alt="icon-figma" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
 To use, enable `GitHub Presentation Template` in the Team libraries.

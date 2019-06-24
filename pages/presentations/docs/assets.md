@@ -4,6 +4,10 @@ path: presentations/assets
 ---
 
 This document contains a running list of all of the assets and templates used for presentations.
+## Colors
+![color system](https://user-images.githubusercontent.com/10384315/60050673-0a0e3c80-9686-11e9-911a-c27e78e0ca51.png)
+
+Primer Presentations uses the same [color system](https://primer.style/css/support/color-system) created for our product. Our color system is available as a color palette packaged together with the [Keynote template download](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0). Please refer to our detailed [instructions](design-guidelines) on how to install the color palette into your version of Keynote.
 
 ## Icons
 ### Octicons
@@ -18,8 +22,8 @@ The GitHub Marketing icons were created by the Creative team for use in our web,
 
 ## Presentation Templates
 ### Keynote
-The Keynote template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
+The [Keynote](presentation-formats#object-Object-Keynote) template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1Wp3NyCYM-FsU-4MKSbPcBgIsWVgvUQy0).
 ### PowerPoint
-The PowerPoint template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
+The [PowerPoint](presentation-formats#object-Object-PowerPoint) template is available for GitHub employees on [Google Drive](https://drive.google.com/open?id=1QKiEbruGhWAY85NsEuTIEccDlAiz9qbD).
 ### Google Slides
-The Google slides template is available as a custom theme within the [template gallery](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1).
+The [Google Slides](presentation-formats#object-Object-Google-Slides) template is available as a custom theme within the [template gallery](https://docs.google.com/presentation/u/0/?tgif=d&ftv=1).

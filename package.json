@@ -36,6 +36,7 @@
     "hast-util-to-html": "^5.0.0",
     "hast-util-to-string": "^1.0.1",
     "html-2-jsx": "^0.5.1-dev",
+    "js-yaml": "^3.13.1",
     "loader-utils": "^1.1.0",
     "mdx-constant": "^0.1.0",
     "mdx-live": "2.0.0-alpha.2",
@@ -57,5 +58,6 @@
     "unist-util-select": "^2.0.0",
     "unist-util-stringify-position": "^2.0.0",
     "unist-util-visit": "^1.4.0"
-  }
+  },
+  "dependencies": {}
 }

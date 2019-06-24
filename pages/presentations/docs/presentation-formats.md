@@ -55,7 +55,7 @@ The GitHub Presentation Template is available for use in the Google Slides templ
 
 ![slides-template](https://user-images.githubusercontent.com/10384315/59050642-ac818f80-883f-11e9-9dc4-eccecb3dce0b.gif)
 
-## <img width="24" alt="icon-figma" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
+## <img width="24" src="https://user-images.githubusercontent.com/10384315/57806800-bddded00-7714-11e9-98fe-f3021839cfde.png" /> Figma
 The GitHub presentation theme is available as a Figma library for members of the GitHub organization.
 
 To use, enable `GitHub Presentation Template` in the Team libraries.

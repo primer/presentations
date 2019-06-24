@@ -49,7 +49,7 @@ The main difference is that a `.potx` is a template file which will create a new
 | At the bottom, click on **Browse for Themes**. | ![Browse for Themes](https://user-images.githubusercontent.com/10384315/57048344-6a55a480-6c28-11e9-8f61-70ed23816606.png) |
 | Navigate to your `github-presentation-system-powerpoint` folder | ![Navigate to your file](https://user-images.githubusercontent.com/10384315/57048569-58283600-6c29-11e9-890c-f75694b67d5a.png) |
 
-## <img width="24" alt="icon-slides" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
+## <img width="24" src="https://user-images.githubusercontent.com/10384315/57806530-2b3d4e00-7714-11e9-83b8-65ac6c95c0d0.png" /> Google Slides
 
 The GitHub Presentation Template is available for use in the Google Slides template gallery.
 

@@ -13,7 +13,7 @@ Primer Presentations uses the same [color system](https://primer.style/css/suppo
 ### Octicons
 ![Octicons](https://user-images.githubusercontent.com/10384315/57805935-e6fd7e00-7712-11e9-873a-98187da7a06c.png)
 Octicons are the standard icon set used on GitHub.
-[Web](https://octicons.github.com/) | [GitHub](https://github.com/primer/octicons) | [Figma](https://www.figma.com/file/FP7lqd1V00LUaT5zvdklkkZr/Octicons)
+[Web](https://octicons.github.com/) | [GitHub](https://github.com/primer/octicons) | [Figma](https://www.figma.com/file/FP7lqd1V00LUaT5zvdklkkZr/Octicons) | [Keynote](https://drive.google.com/open?id=1SgEAakP98krI0TxzXc_B0AAGu4AxI2G5)
 
 ### GitHub Marketing icons
 ![GitHub Marketing icons](https://user-images.githubusercontent.com/10384315/57806011-13b19580-7713-11e9-8e27-7d481b5314cc.png)

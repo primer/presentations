@@ -6,6 +6,16 @@ path: presentations/versioning
 Versioning for the Primer presentation system will be logged by date. All updates will be kept in a changelog located in both the presenters notes of a changelog slide and on the Primer presentations site.
 
 ## Changelog
+### July 16, 2019
+Keynote:
+- Removed extraneous slides (Title & Subtitle, Title Left)
+- Added slides
+	- Title Slide - White
+	- Title - Bottom Light
+- Added more spacing for bullet and body paragraph text
+- Mapped any free form text to text styles
+- Included icons directory in main download
+
 ### May 15, 2019
 - Added icon set thumbnails and format icons to docs for clearer context
 

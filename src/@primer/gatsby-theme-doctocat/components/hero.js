@@ -14,7 +14,7 @@ export default function Hero() {
         <Text as="div" color="blue.2" fontSize={2} mb={4}>
           Last updated: March 22, 2019
         </Text>
-        <img src={heroImage} alt="Primer Presentations hero image"></img>
+        <img src={heroImage} alt="Primer Presentations hero" />
       </Container>
     </Box>
   )

@@ -1,0 +1,15 @@
+- title: Documentation
+  url: /
+  children:
+    - title: Assets
+      url: /assets
+    - title: Footer
+      url: /footer
+    - title: Presentation Formats
+      url: /presentation-formats
+    - title: Slide Types
+      url: /slide-types
+    - title: Versioning
+      url: /versioning
+
+  

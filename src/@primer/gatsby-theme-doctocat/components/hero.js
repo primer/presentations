@@ -1,4 +1,3 @@
-// src/@primer/gatsby-theme-doctocat/components/hero.js
 import {Box, Heading, Text} from '@primer/components'
 import React from 'react'
 import heroImage from '../../../hero-image.svg'

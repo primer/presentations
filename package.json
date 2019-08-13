@@ -1,6 +1,6 @@
 {
   "name": "doctocat-template",
-  "repository": "primer/doctocat-template",
+  "repository": "primer/presentations",
   "version": "1.0.0",
   "scripts": {
     "develop": "gatsby develop",

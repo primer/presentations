@@ -9,12 +9,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@primer/gatsby-theme-doctocat": "^0.9.0",
-    "gatsby": "^2.13.25",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "@primer/gatsby-theme-doctocat": "^0.11.0",
     "eslint": "4.19.1",
     "eslint-plugin-github": "1.0.0",
-    "eslint-plugin-prettier": "^3.0.0"
+    "eslint-plugin-prettier": "^3.0.0",
+    "gatsby": "^2.13.25",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }

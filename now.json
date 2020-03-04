@@ -10,6 +10,7 @@
     }
   ],
   "routes": [
+    {"src": "/presentations", "dest": "/"},
     {"src": "/presentations(/.*)?", "dest": "$1"},
     {
       "src": "/",

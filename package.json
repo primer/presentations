@@ -14,6 +14,7 @@
     "eslint-plugin-github": "1.0.0",
     "eslint-plugin-prettier": "^3.0.0",
     "gatsby": "^2.13.25",
+    "gatsby-plugin-alias-imports": "^1.0.5",
     "react": "16.9.x",
     "react-dom": "16.9.x"
   }

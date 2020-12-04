@@ -1,0 +1,75 @@
+---
+title: Text styling
+---
+
+import {Box, Flex, BorderBox, Text, CircleOcticon} from '@primer/components'
+import {Check} from '@primer/octicons-react'
+import {X} from '@primer/octicons-react'
+
+The presentation system uses system fonts. The default font is **Helvetica Neue**. The default monospace font is `Menlo` in Keynote and `Roboto Mono` in Google Slides.
+
+### Font sizing
+
+| Type | Keynote | Google Slides |
+| :--: | :-----: | :-----------: |
+|  H1  |   100   |      40       |
+|  H2  |   72    |      30       |
+|  H3  |   64    |      24       |
+|  H4  |   56    |      18       |
+| Body |   48    |      16       |
+
+### Monospace fonts
+
+Monospace fonts are used for quote attributions, code, and labels/eyebrow text.
+
+### Highlighting
+
+Highlighting is great for indicating important points that you'd like your audience to remember from a statement or quote. In our system, highlights are represented by altering the color of the text.
+
+**Usage guidelines:**
+
+- **Avoid multiple highlights.** Highlights should be used sparingly to only highlight key words or phrases on the slide. Too many highlights will confuse your audience in regards to what the most important take away should be.
+- **Emphasis over decoration** Remember that when you're highlighting text you're telling the audience, "This is important". Be sure to ask yourself "Is the highlight necessary to add emphasis to my talking point?" before highlighting.
+
+<Flex flexDirection={['column', 'row', 'row']}>
+  <Box mr="2" mb="4">
+    <Flex flexDirection="row" alignItems="center" mb="2">
+      <CircleOcticon icon={Check} size={16} bg="green.5" color="white" mr="2" p="1" />
+      <Text fontWeight="bold" color="gray.9" ml="1">
+        Do
+      </Text>
+    </Flex>
+    <Box>
+      <img src="https://user-images.githubusercontent.com/10384315/55268057-cef59c00-5243-11e9-8400-6381fae36fea.png" />
+    </Box>
+    <Text fontSize="0" color="gray.5">
+      Highlight important points that your audience should pay attention to
+    </Text>
+  </Box>
+  <Box mr="2">
+    <Flex flexDirection="row" alignItems="center" mb="2">
+      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
+      <Text fontWeight="bold" color="gray.9" ml="1">
+        Don't
+      </Text>
+    </Flex>
+    <Box borderRadius="3">
+      <img src="https://user-images.githubusercontent.com/10384315/55268059-d7e66d80-5243-11e9-9842-37d4009dfb9e.png" />
+    </Box>
+    <Text fontSize="0" color="gray.5">
+      Use too many highlights
+    </Text>
+  </Box>
+</Flex>
+
+#### Recommended highlight color pairings
+
+All highlight colors come from the [Primer color system](https://primer.style/css/support/color-system). We've supplied a list of recommended highlight colors below.
+
+| Background | Highlight  | Hex value |
+| :--------: | :--------: | :-------: |
+|   Black    | yellow-400 |  #ffdf5d  |
+|   Black    |  blue-400  |  #2188ff  |
+|   Black    |  red-400   |  #ea4a5a  |
+|   White    |  blue-600  |  #005cc5  |
+|   White    |  red-500   |  #d73a49  |

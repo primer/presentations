@@ -1,0 +1,92 @@
+---
+title: Image use
+---
+
+import {Box, Flex, BorderBox, Text, CircleOcticon} from '@primer/components'
+import {Check} from '@primer/octicons-react'
+import {X} from '@primer/octicons-react'
+
+When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
+
+## Usage guidelines:
+
+<Flex flexDirection={['column', 'row', 'row']}>
+  <Box mr="2" mb="4">
+    <Flex flexDirection="row" alignItems="center" mb="2">
+      <CircleOcticon icon={Check} size={16} bg="green.5" color="white" mr="2" p="1" />
+      <Text fontWeight="bold" color="gray.9" ml="1">
+        Do
+      </Text>
+    </Flex>
+    <Box>
+      <img
+        width="500"
+        alt="image-white"
+        src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"
+      />
+    </Box>
+    <Text fontSize="0" color="gray.5">
+      Use images with a similar or transparent background
+    </Text>
+  </Box>
+  <Box mr="2">
+    <Flex flexDirection="row" alignItems="center" mb="2">
+      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
+      <Text fontWeight="bold" color="gray.9" ml="1">
+        Don't
+      </Text>
+    </Flex>
+    <Box borderRadius="3">
+      <img
+        width="500"
+        alt="image-black"
+        src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"
+      />
+    </Box>
+    <Text fontSize="0" color="gray.5">
+      Use images with opposite backgrounds to the slide background
+    </Text>
+  </Box>
+</Flex>
+
+### 📍Tip: Seamless image backgrounds
+
+If you find yourself needing to use a specific image but the slide background doesn't match, you can change the background color to match the image's background color.
+
+![bg-change](https://user-images.githubusercontent.com/10384315/56434794-05469a00-628b-11e9-8447-93bb44facbec.gif)
+
+## Adding images
+
+Images can be easily added to any presentation by simply drag and dropping, copy and pasting, or inserting from the toolbar in Keynote, Google Slides, and Figma.
+
+### Adding images in Keynote
+
+|    Source     |                        Description                        |                                                         Example                                                          |
+| :-----------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+|    Browser    | Drag and drop any image from the web browser into Keynote | ![keynote-browser](https://user-images.githubusercontent.com/10384315/55426909-c4385100-553a-11e9-88b6-467a4134f1cf.gif) |
+| Local machine |   Drag and drop any image from the Finder into Keynote    |  ![keynote-local](https://user-images.githubusercontent.com/10384315/55426910-c4385100-553a-11e9-811a-69ecc5710708.gif)  |
+|               |
+
+### Replacing images in Keynote
+
+|                    Step                    |                                                                 Example                                                                 |
+| :----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| Select the image and click the `Image` tab |       ![keynote-replace-1](https://user-images.githubusercontent.com/10384315/55841326-9ecfb800-5ae3-11e9-918a-fc5e9ecfb94b.gif)        |
+|            Click the `Replace`             | ![Screenshot 2019-04-02 13 00 23](https://user-images.githubusercontent.com/10384315/55432266-4d558500-5547-11e9-88b2-21818e9182c3.png) |
+|                                            |
+|   Select the new image and click `Open`    |       ![keynote-replace-2](https://user-images.githubusercontent.com/10384315/55841327-9ecfb800-5ae3-11e9-8277-2c0aa79a0f3a.gif)        |
+
+### Adding images in Google Slides
+
+|    Source     |                                       Description                                        |                                                           Example                                                           |
+| :-----------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|    Browser    | Drag and drop any image from any tab in your web browser into the tab with Google Slides | ![google-add-image-1](https://user-images.githubusercontent.com/10384315/55434040-7d9f2280-554b-11e9-926c-690b8a001c3e.gif) |
+| Local Machine |              In the toolbar select `Insert > Image > Upload from computer`               | ![google-add-image-2](https://user-images.githubusercontent.com/10384315/55434041-7d9f2280-554b-11e9-844f-8d019a7d8466.gif) |
+|    By URL     |        In the toolbar select `Insert > Image > By URL` and paste the image's URL         | ![google-add-image-3](https://user-images.githubusercontent.com/10384315/55434043-7d9f2280-554b-11e9-9c2b-520055cbbfb5.gif) |
+
+### Replacing images in Google Slides
+
+|                               Step                                |                                                                         Example                                                                          |
+| :---------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| With the image selected, click the `Replace Image` in the toolbar |         ![Screenshot 2019-04-02 13 35 49](https://user-images.githubusercontent.com/10384315/55434339-3feec980-554c-11e9-87aa-607f84827120.png)          |
+|             Select which method to replace your image             | <img width="500" alt="google-slide-replace" src="https://user-images.githubusercontent.com/10384315/54858092-f686ba80-4cbf-11e9-821d-dfc9febc02e8.png"/> |

@@ -31,9 +31,9 @@
   children:
     - title: Quotes
       url: /slide-layouts/quotes
-      - title: Reactions
+    - title: Reactions
       url: /slide-layouts/reactions
-      - title: Charts
+    - title: Charts
       url: /slide-layouts/charts
     - title: Footer
       url: /slide-layouts/footer

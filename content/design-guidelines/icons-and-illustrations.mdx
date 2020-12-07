@@ -2,28 +2,20 @@
 title: Icons and illustration usage
 ---
 
-import {Box, Flex, BorderBox, Text, CircleOcticon} from '@primer/components'
-import {Check} from '@primer/octicons-react'
-import {X} from '@primer/octicons-react'
+import {Text} from '@primer/components'
 
 ## Guidelines
 
 Below are guidelines on how to best use GitHub icons and illustrations within a presentation. Approved visual assets are provided within the [asset library](https://primer.style/presentations/assets).
 
-<Flex flexDirection="row" alignItems="center" mb="2">
-  <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-  <Text fontWeight="bold" color="gray.9" ml="1" mr="1">
-    Don't
-  </Text>
-  <Text>Alter the illustrations</Text>
-</Flex>
-<Flex flexDirection="row" alignItems="center" mb="2">
-  <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-  <Text fontWeight="bold" color="gray.9" ml="1" mr="1">
-    Don't
-  </Text>
-  <Text>Combine images that use different stylings</Text>
-</Flex>
+<DoDontContainer>
+  <Dont>
+    <Text>Alter the illustrations</Text>
+  </Dont>
+  <Dont>
+    <Text>Combine images that use different stylings</Text>
+  </Dont>
+</DoDontContainer>
 
 ## Icons
 

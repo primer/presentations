@@ -2,52 +2,26 @@
 title: Image use
 ---
 
-import {Box, Flex, BorderBox, Text, CircleOcticon} from '@primer/components'
-import {Check} from '@primer/octicons-react'
-import {X} from '@primer/octicons-react'
-
 When using a screenshot, it’s best to match the background. We suggest to take a screenshot on a similar color background or use a PNG with a transparent background as this will look the most seamless.
 
 ## Usage guidelines:
 
-<Flex flexDirection={['column', 'row', 'row']}>
-  <Box mr="2" mb="4">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={Check} size={16} bg="green.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Do
-      </Text>
-    </Flex>
-    <Box>
-      <img
-        width="500"
-        alt="image-white"
-        src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"
-      />
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Use images with a similar or transparent background
-    </Text>
-  </Box>
-  <Box mr="2">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Don't
-      </Text>
-    </Flex>
-    <Box borderRadius="3">
-      <img
-        width="500"
-        alt="image-black"
-        src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"
-      />
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Use images with opposite backgrounds to the slide background
-    </Text>
-  </Box>
-</Flex>
+<DoDontContainer>
+  <Do>
+    <img
+      alt="image-white"
+      src="https://user-images.githubusercontent.com/10384315/54647439-b32e1100-4a5f-11e9-8d85-a4a2e64319ca.png"
+    />
+    <Caption>Use images with a similar or transparent background</Caption>
+  </Do>
+  <Dont>
+    <img
+      alt="image-black"
+      src="https://user-images.githubusercontent.com/10384315/54647548-1f107980-4a60-11e9-9640-8f1721609e44.png"
+    />
+    <Caption>Don't use images with opposite backgrounds to the slide background</Caption>
+  </Dont>
+</DoDontContainer>
 
 ### 📍Tip: Seamless image backgrounds
 

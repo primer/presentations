@@ -2,10 +2,6 @@
 title: Backgrounds
 ---
 
-import {Box, Flex, BorderBox, Text, CircleOcticon} from '@primer/components'
-import {Check} from '@primer/octicons-react'
-import {X} from '@primer/octicons-react'
-
 ## Backgrounds
 
 Background colors should be limited to the colors provided in the template.
@@ -14,36 +10,22 @@ Background colors should be limited to the colors provided in the template.
 
 #### Usage guidelines:
 
-<Flex flexDirection={['column', 'row', 'row']}>
-<Box mr="2">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Don't
-      </Text>
-    </Flex>
-    <Box borderRadius="3">
-      <img width="500" alt="bg-dont-gradient" src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"/>
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Use gradients or colors outside the provided template
-    </Text>
-  </Box>
-  <Box mr="2">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Don't
-      </Text>
-    </Flex>
-    <Box borderRadius="3">
-      <img width="500" alt="bg-dont-tile" src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"/>
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Use tiled images
-    </Text>
-  </Box>
-</Flex>                                                                                                                           
+<DoDontContainer>
+  <Dont>
+    <img
+      alt="bg-dont-gradient"
+      src="https://user-images.githubusercontent.com/10384315/54648119-40726500-4a62-11e9-95cc-f2798867dfd6.png"
+    />
+    <Caption>Don't use gradients or colors outside the provided template</Caption>
+  </Dont>
+  <Dont>
+    <img
+      alt="bg-dont-tile"
+      src="https://user-images.githubusercontent.com/10384315/54648132-4d8f5400-4a62-11e9-9445-25016320e1fd.png"
+    />
+    <Caption>Don't use tiled images</Caption>
+  </Dont>
+</DoDontContainer>
 
 ### Background images
 
@@ -53,41 +35,20 @@ Background images should be used _only_ to support, not to distract the viewers.
 
 #### Usage guidelines:
 
-<Flex flexDirection={['column', 'row', 'row']}>
-  <Box mr="2" mb="4">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={Check} size={16} bg="green.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Do
-      </Text>
-    </Flex>
-    <Box>
-      <img
-        width="500"
-        alt="bg-do"
-        src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png"
-      />
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Background images should be dimmed to 25% opacity
-    </Text>
-  </Box>
-  <Box mr="2">
-    <Flex flexDirection="row" alignItems="center" mb="2">
-      <CircleOcticon icon={X} size={16} bg="red.5" color="white" mr="2" p="1" />
-      <Text fontWeight="bold" color="gray.9" ml="1">
-        Don't
-      </Text>
-    </Flex>
-    <Box borderRadius="3">
-      <img
-        width="500"
-        alt="bg-dont"
-        src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png"
-      />
-    </Box>
-    <Text fontSize="0" color="gray.5">
-      Use busy background images when paired with text
-    </Text>
-  </Box>
-</Flex>
+<DoDontContainer>
+  <Do>
+    <img
+      alt="bg-do"
+      src="https://user-images.githubusercontent.com/10384315/54647253-06539400-4a5f-11e9-8315-f14eefee699f.png"
+    />
+    <Caption>Background images should be dimmed to 25% opacity</Caption>
+  </Do>
+  <Dont>
+    <img
+      width="500"
+      alt="bg-dont"
+      src="https://user-images.githubusercontent.com/10384315/54647119-a9f07480-4a5e-11e9-93c1-29d6116b8492.png"
+    />
+    <Caption>Don't use busy background images when paired with text</Caption>
+  </Dont>
+</DoDontContainer>

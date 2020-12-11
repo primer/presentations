@@ -39,8 +39,8 @@
       url: /slide-layouts/footer
 - title: Assets
   children:
-    - title: Color palettes
-      url: /assets/color-palettes
+    - title: Color palette
+      url: /assets/color-palette
     - title: Icons packages
       url: /assets/icon-packages
     - title: Template files

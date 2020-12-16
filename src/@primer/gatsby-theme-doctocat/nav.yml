@@ -1,12 +1,49 @@
-- title: Assets
-  url: /assets
+- title: About
+  url: /
 - title: Design guidelines
-  url: /design-guidelines
-- title: Footer
-  url: /footer
-- title: Presentation Formats
-  url: /presentation-formats
-- title: Slide Types
-  url: /slide-types
+  children:
+    - title: Presentation principles
+      url: /design-guidelines/
+    - title: Color usage
+      url: /design-guidelines/color-usage
+    - title: Text styling
+      url: /design-guidelines/text
+    - title: Images
+      url: /design-guidelines/images
+    - title: Slide backgrounds
+      url: /design-guidelines/backgrounds
+    - title: Icons and illustrations
+      url: /design-guidelines/icons-and-illustrations
+
+- title: Presentation formats
+  children:
+    - title: Keynote
+      url: /presentation-formats/keynote
+    - title: PowerPoint
+      url: /presentation-formats/powerpoint
+    - title: Google Slides
+      url: /presentation-formats/google-slides
+    - title: Deckset
+      url: /presentation-formats/deckset
+    - title: Figma
+      url: /presentation-formats/figma
+- title: Slide layouts
+  children:
+    - title: Quotes
+      url: /slide-layouts/quotes
+    - title: Reactions
+      url: /slide-layouts/reactions
+    - title: Charts
+      url: /slide-layouts/charts
+    - title: Footer
+      url: /slide-layouts/footer
+- title: Assets
+  children:
+    - title: Color palette
+      url: /assets/color-palette
+    - title: Icons packages
+      url: /assets/icon-packages
+    - title: Template files
+      url: /assets/template-files
 - title: Versioning
   url: /versioning

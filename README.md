@@ -1,4 +1,7 @@
 # Primer Presentation System
+
+`Current version: v2020`
+
 ## Documentation
 Our documentation site currently lives at [https://primer.style/presentations/](https://primer.style/presentations/). You'll be able to find the information listed in this README as well as detailed docs for presentation guidelines, presentation formats, and assets.
 ## Installation

@@ -14,3 +14,4 @@ jobs:
     uses: primer/.github/.github/workflows/deploy_preview.yml@main
     with:
       node_version: 14
+      install: npm install

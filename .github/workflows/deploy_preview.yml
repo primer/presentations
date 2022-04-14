@@ -13,5 +13,5 @@ jobs:
     name: Build and deploy
     uses: primer/.github/.github/workflows/deploy_preview.yml@main
     with:
-      node_version: 14
+      node_version: 12
       install: npm install

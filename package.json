@@ -5,7 +5,7 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
-    "now-build": "yarn build",
+    "build:preview": "gatsby build",
     "lint": "eslint ."
   },
   "dependencies": {

@@ -9,9 +9,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@primer/components": "^30.3.0",
     "@primer/gatsby-theme-doctocat": "^4.0.0",
     "@primer/octicons-react": "^11.0.0",
+    "@primer/react": "^35.5.0",
     "eslint": "4.19.1",
     "eslint-plugin-github": "1.0.0",
     "eslint-plugin-prettier": "^3.0.0",

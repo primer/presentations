@@ -1,5 +1,8 @@
-- title: About
-  url: /
+- title: Introduction
+  children:
+    - title: Getting started
+      url: /
+
 - title: Design guidelines
   children:
     - title: Presentation principles
